@@ -1,0 +1,16 @@
+{
+  "name": "Bathroom Sink Cabinet",
+  "author": "Jimbogies",
+  "url": "https://www.fab.com/listings/f9018670-caa2-4fc3-8059-6dbfe0227097",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "free_verified": true,
+  "checked": "2026-11-14",
+  "source_archive": "assets/source/fab-sink/bathroom_sink_cabinet.zip",
+  "bytes": 14488387,
+  "sha256": "2f126337554d5a6c04871eca21ecad6d40764d1e4ce3146a7b6dd7c82c6ebfc9",
+  "scope": "Original sink cabinet acquired; complete native geometry/PBR/facing/fit and readable attribution required",
+  "original_source_url": "https://sketchfab.com/3d-models/bathroom-sink-cabinet-e5cf10304ffb4c11bc7841b584ccd706",
+  "source_author_url": "https://sketchfab.com/jimbogies",
+  "license_notice": "Original archive license.txt retained; CC BY4.0 creator/title/source/license/modification attribution in project ledger and native credits"
+}

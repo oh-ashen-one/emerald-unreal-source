@@ -1,0 +1,129 @@
+{
+  "schema": "emerald.selected-props/1",
+  "models": [
+    {
+      "name": "wallClock",
+      "asset_id": "wall_clock",
+      "source": "https://polyhaven.com/a/wall_clock",
+      "creator": "PierreB3D",
+      "license": "CC0-1.0",
+      "gltf_path": "assets/source/wall_clock/wall_clock_1k.gltf",
+      "packed_path": "assets/source/wall_clock/wallClock.glb",
+      "packed_sha256": "a6802cad0fef74f0a98de12c454e8c35b7a8b779459599a0b9166ff008e5fee9",
+      "files": [
+        {
+          "path": "assets/source/wall_clock/wall_clock_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wall_clock/wall_clock_1k.gltf",
+          "sha256": "4e67385443e808bc709c054c1de5be1e83d4bf07eb0893884c301fec0bae8bc6",
+          "bytes": 9008,
+          "upstream_md5": "86c50202813c717074d1bc72ddad9109"
+        },
+        {
+          "path": "assets/source/wall_clock/textures/wall_clock_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wall_clock/wall_clock_nor_gl_1k.jpg",
+          "sha256": "6138946e055828e92d5e0d8d50c75e3d2da0ea789dd6512b30f85f0e18435d00",
+          "bytes": 236489,
+          "upstream_md5": "d6404c2ffb48b17fbeed2cb9bf187a29"
+        },
+        {
+          "path": "assets/source/wall_clock/textures/wall_clock_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wall_clock/wall_clock_diff_1k.jpg",
+          "sha256": "012bfc3ceecd5e35679fe5764e33b6d1b8a631ad4fc9f5b267af25ad10468672",
+          "bytes": 366683,
+          "upstream_md5": "32e8346296eebf4776e7e917f0080c7f"
+        },
+        {
+          "path": "assets/source/wall_clock/textures/wall_clock_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wall_clock/wall_clock_arm_1k.jpg",
+          "sha256": "c78aabec7bb4af4fd6818be1099523e59bf12d88c872530b2260cdea08d81968",
+          "bytes": 444044,
+          "upstream_md5": "6d962d1263bd5b34e16a69fa5473e8ac"
+        },
+        {
+          "path": "assets/source/wall_clock/textures/wall_clock_glass_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wall_clock/wall_clock_glass_arm_1k.jpg",
+          "sha256": "42804955958b3d0fdc1da8d4c4e8e909b04f659ae1b02911e148abe0741b8b84",
+          "bytes": 376244,
+          "upstream_md5": "5e84b53fb7e087f4114de28d70787f5c"
+        },
+        {
+          "path": "assets/source/wall_clock/wall_clock.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/wall_clock/wall_clock.bin",
+          "sha256": "61d9fe03e871508230160de546ef505f3f4405b1e82c167536945a483a8bb639",
+          "bytes": 132412,
+          "upstream_md5": "f1399287d9ad2fa2cfb303e95bbdbc45"
+        }
+      ],
+      "modifications": "Self-contained GLB packaging only; static scene bake and source-derived transform at import"
+    },
+    {
+      "name": "regionMapFrame",
+      "asset_id": "hanging_picture_frame_01",
+      "source": "https://polyhaven.com/a/hanging_picture_frame_01",
+      "creator": "James Ray Cock",
+      "license": "CC0-1.0",
+      "gltf_path": "assets/source/hanging_picture_frame_01/hanging_picture_frame_01_1k.gltf",
+      "packed_path": "assets/source/hanging_picture_frame_01/regionMapFrame.glb",
+      "packed_sha256": "7fa0b47609f27955219ad56f0683b62aaedf1129f90c51ab82fcb241780ad84e",
+      "files": [
+        {
+          "path": "assets/source/hanging_picture_frame_01/hanging_picture_frame_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/hanging_picture_frame_01/hanging_picture_frame_01_1k.gltf",
+          "sha256": "00aaeab14751485287443b4c5cc2ee5673136510595daa6a2948519c116ad47b",
+          "bytes": 6495,
+          "upstream_md5": "54726d9c81e19d8745b3d26d18b89c89"
+        },
+        {
+          "path": "assets/source/hanging_picture_frame_01/textures/hanging_picture_frame_01_artwork_roughness_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_01/hanging_picture_frame_01_artwork_roughness_1k.jpg",
+          "sha256": "62d875e9427f5d71f1bb4d9dc9569e34465bfd3067b8b13f5644b73e23a09fa3",
+          "bytes": 12684,
+          "upstream_md5": "b8e5b8431b0c53b20d83ec0bcff51747"
+        },
+        {
+          "path": "assets/source/hanging_picture_frame_01/hanging_picture_frame_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/hanging_picture_frame_01/hanging_picture_frame_01.bin",
+          "sha256": "27ec66baf3b227d004d2d325e18c77df6b7a1a7f74afd7d5dbd4f950bc2f5ca6",
+          "bytes": 86448,
+          "upstream_md5": "ed2c512ea5e3dcdcfc70c53b4de24099"
+        },
+        {
+          "path": "assets/source/hanging_picture_frame_01/textures/hanging_picture_frame_01_artwork_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_01/hanging_picture_frame_01_artwork_diff_1k.jpg",
+          "sha256": "2e177d2061d2204efc2a1285dc0a30220148b41134d331ed93fd21ae8b15f6a0",
+          "bytes": 44185,
+          "upstream_md5": "bf926c376e335ac3272564924f9d4e52"
+        },
+        {
+          "path": "assets/source/hanging_picture_frame_01/textures/hanging_picture_frame_01_artwork_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_01/hanging_picture_frame_01_artwork_nor_gl_1k.jpg",
+          "sha256": "f91caa0cacbefa2c30dff935f0aee41e5f7493f6ba881e5a5021b8a220084195",
+          "bytes": 17259,
+          "upstream_md5": "6c3858a15263cfd9621d88c2eabe9d71"
+        },
+        {
+          "path": "assets/source/hanging_picture_frame_01/textures/hanging_picture_frame_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_01/hanging_picture_frame_01_arm_1k.jpg",
+          "sha256": "aec54462e91d53610f46b2bb760cbdf453e7b87c5193efa24f995cd5bb0253bc",
+          "bytes": 101751,
+          "upstream_md5": "8d9dd625ec0705f3ac0a2ec2b402844e"
+        },
+        {
+          "path": "assets/source/hanging_picture_frame_01/textures/hanging_picture_frame_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_01/hanging_picture_frame_01_nor_gl_1k.jpg",
+          "sha256": "6f16f93ee6fcffb27dbd5ebf3de8fda71c77c7e1abd61ae9261715029be4d43e",
+          "bytes": 40281,
+          "upstream_md5": "2ff7cca9a9b2918b5476d39c13592214"
+        },
+        {
+          "path": "assets/source/hanging_picture_frame_01/textures/hanging_picture_frame_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_01/hanging_picture_frame_01_diff_1k.jpg",
+          "sha256": "a6aa51141299ff7366b6e1ac1496dee2d8bd2d6fe775ea7d1fbbb299b2afb5e8",
+          "bytes": 88363,
+          "upstream_md5": "4311cd03620cafa59976f9e8b7b26f88"
+        }
+      ],
+      "modifications": "Self-contained GLB packaging only; static scene bake and source-derived transform at import"
+    }
+  ]
+}

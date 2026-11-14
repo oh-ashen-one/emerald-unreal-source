@@ -1,0 +1,45 @@
+{
+  "checked": "2026-11-13",
+  "assets": [
+    {
+      "name": "Old Wooden Window",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/a093a890-4f09-4575-adde-e316f16d7bb5",
+      "license": "Fab Standard License",
+      "license_url": "https://www.fab.com/eula",
+      "tier": "High-quality converted GLB",
+      "source_file": "assets/source/fab-quixel/old_wooden_window_vmfwcabdw_high.glb",
+      "bytes": 41401212,
+      "sha256": "774d4af8c132b9c9879f0ec34fd542ad378292da39842e9c8de9f327ec3e3b7e",
+      "meshes": 1,
+      "triangles": 20816,
+      "embedded_images": 3,
+      "authorization": "Owner any-FREE Fab authority; live signed-in listing Free/Standard License and successful direct file download verified",
+      "source_bytes_modified": false,
+      "native_import_verified": true,
+      "native_full_lod_triangles": 20816,
+      "inspected_run": "out/quality-pass/after/20261113-211600",
+      "quality_gate_passed": false
+    },
+    {
+      "name": "Old Wooden Door",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/80e384cb-a50a-4721-8304-71903945ff69",
+      "license": "Fab Standard License",
+      "license_url": "https://www.fab.com/eula",
+      "tier": "High-quality converted GLB",
+      "source_file": "assets/source/fab-quixel/old_wooden_door_wbdjciudw_high.glb",
+      "bytes": 34919224,
+      "sha256": "5c731706b9b9bcf41b744248e7e7e849af9fca64a220120c6dadd25faf954efc",
+      "meshes": 1,
+      "triangles": 7795,
+      "embedded_images": 3,
+      "authorization": "Owner any-FREE Fab authority; signed-in Free/Standard listing and successful direct high-file download verified",
+      "source_bytes_modified": false,
+      "native_import_verified": true,
+      "native_full_lod_triangles": 7795,
+      "inspected_run": "out/quality-pass/after/20261113-211600",
+      "quality_gate_passed": false
+    }
+  ]
+}

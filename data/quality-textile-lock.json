@@ -1,0 +1,37 @@
+{
+  "id": "denim_fabric_03",
+  "name": "Denim Fabric 03",
+  "url": "https://polyhaven.com/a/denim_fabric_03",
+  "license": "CC0-1.0",
+  "authors": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+  },
+  "physical_width_cm": 100,
+  "files": [
+    {
+      "channel": "Diffuse",
+      "path": "assets/source/quality-textile/denim_fabric_03_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric_03/denim_fabric_03_diff_2k.jpg",
+      "bytes": 4357564,
+      "upstream_md5": "45a8f73b7995fa723cce650f31295a67",
+      "sha256": "f7456ece0e77f29ac3594e6965ee61f69998f17311bd5f0e0774092c573ef520"
+    },
+    {
+      "channel": "nor_dx",
+      "path": "assets/source/quality-textile/denim_fabric_03_nor_dx_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric_03/denim_fabric_03_nor_dx_2k.jpg",
+      "bytes": 4156818,
+      "upstream_md5": "70dc75c5c5a8078fa3da1e43a4470973",
+      "sha256": "916f0493045c99d6ff7716a6c8472b32e3807d829cdc1eae0318d0326dbfa60b"
+    },
+    {
+      "channel": "arm",
+      "path": "assets/source/quality-textile/denim_fabric_03_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric_03/denim_fabric_03_arm_2k.jpg",
+      "bytes": 4663093,
+      "upstream_md5": "2572919a9409d5af578515eafc06a25e",
+      "sha256": "67ea635af1b58185d418480d06f9e5cd2b73b11efeba2f6eb90287ec2d0bedbb"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Python authoring tools. UE uses its own bundled Python for native asset building.
+# No additional dependencies are needed for the lossless map importer itself.
+numpy>=2.4,<3
+Pillow>=12.3,<14

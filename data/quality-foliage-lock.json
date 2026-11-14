@@ -1,0 +1,228 @@
+{
+  "checked": "2026-11-13",
+  "models": {
+    "grass_medium_01": {
+      "source": "https://polyhaven.com/a/grass_medium_01",
+      "license": "CC0-1.0",
+      "creators": [
+        "Rob Tuytel",
+        "Rico Cilliers"
+      ],
+      "raw_metadata_polycount": 1606633,
+      "files": [
+        {
+          "path": "assets/source/quality-foliage/grass_medium_01/grass_medium_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/grass_medium_01/grass_medium_01_1k.gltf",
+          "bytes": 27110,
+          "md5": "28dd8247f3faa749bf87a0b84be01e7e",
+          "sha256": "3e5e2a314c94e16de54fd7c28e41709731fbd2b1613ab539f1544f622ddb6a85"
+        },
+        {
+          "path": "assets/source/quality-foliage/grass_medium_01/textures/grass_medium_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/grass_medium_01/grass_medium_01_nor_gl_1k.jpg",
+          "bytes": 956166,
+          "md5": "fcf43dd1253f56e4c361079f34155c37",
+          "sha256": "cae298d3d1d7ff7c7e210ad8ac772b96706e356f9315a6b04fde373ce01ccf1e"
+        },
+        {
+          "path": "assets/source/quality-foliage/grass_medium_01/textures/grass_medium_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/grass_medium_01/grass_medium_01_diff_1k.jpg",
+          "bytes": 395673,
+          "md5": "6b18ed50d776fd20c1304d9994bd764e",
+          "sha256": "71495bd6a11fddcab0aaff38246fea1a7b802a705483f1c7cbca53955daa8050"
+        },
+        {
+          "path": "assets/source/quality-foliage/grass_medium_01/textures/grass_medium_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/grass_medium_01/grass_medium_01_arm_1k.jpg",
+          "bytes": 679518,
+          "md5": "37ed2730a507b681af2e9f9f7ef3ae5e",
+          "sha256": "9a3a30f72bc02f4398967c5b08f2d20cce30bd423a2613b42a727034296fa3ae"
+        },
+        {
+          "path": "assets/source/quality-foliage/grass_medium_01/grass_medium_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/grass_medium_01/grass_medium_01.bin",
+          "bytes": 1006632,
+          "md5": "e0527a0561c2dae5b7b5c1b478d8c6bf",
+          "sha256": "f4587cabdb96a2e96d8be644923dc954a248edfaaa717a0ff224cacb898bee1f"
+        }
+      ],
+      "meshes": [
+        {
+          "index": 0,
+          "name": "Plane.037",
+          "triangles": 833
+        },
+        {
+          "index": 1,
+          "name": "Plane.038",
+          "triangles": 4626
+        },
+        {
+          "index": 2,
+          "name": "Plane.039",
+          "triangles": 1257
+        },
+        {
+          "index": 3,
+          "name": "Plane.042",
+          "triangles": 310
+        },
+        {
+          "index": 4,
+          "name": "Plane.043",
+          "triangles": 290
+        },
+        {
+          "index": 5,
+          "name": "Plane.045",
+          "triangles": 340
+        },
+        {
+          "index": 6,
+          "name": "Plane.047",
+          "triangles": 653
+        },
+        {
+          "index": 7,
+          "name": "Plane.048",
+          "triangles": 1466
+        },
+        {
+          "index": 8,
+          "name": "Plane.050",
+          "triangles": 2287
+        },
+        {
+          "index": 9,
+          "name": "Plane.051",
+          "triangles": 6422
+        },
+        {
+          "index": 10,
+          "name": "Plane.053",
+          "triangles": 5945
+        },
+        {
+          "index": 11,
+          "name": "Plane.054",
+          "triangles": 40
+        },
+        {
+          "index": 12,
+          "name": "Plane.055",
+          "triangles": 79
+        },
+        {
+          "index": 13,
+          "name": "Plane.056",
+          "triangles": 28
+        },
+        {
+          "index": 14,
+          "name": "Plane.057",
+          "triangles": 32
+        },
+        {
+          "index": 15,
+          "name": "Plane.058",
+          "triangles": 62
+        },
+        {
+          "index": 16,
+          "name": "Plane.059",
+          "triangles": 60
+        }
+      ],
+      "integrated": false
+    },
+    "flower_gazania": {
+      "source": "https://polyhaven.com/a/flower_gazania",
+      "license": "CC0-1.0",
+      "creators": [
+        "James Ray Cock",
+        "Jenelle van Heerden"
+      ],
+      "raw_metadata_polycount": 25819,
+      "files": [
+        {
+          "path": "assets/source/quality-foliage/flower_gazania/flower_gazania_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/flower_gazania/flower_gazania_1k.gltf",
+          "bytes": 19686,
+          "md5": "78053547581103a0630049ab073e93bd",
+          "sha256": "73c7f4094f2ad78ddfbe6373f8372ddb736a5d9fc6485db08ae32301edc95a24"
+        },
+        {
+          "path": "assets/source/quality-foliage/flower_gazania/flower_gazania.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/flower_gazania/flower_gazania.bin",
+          "bytes": 848136,
+          "md5": "2ce0f3360d107e2567f8ff47d8fe0d1d",
+          "sha256": "a3864c51fce2dacb01629a0c364730e5988ac5a7a937acc0e2635c946d786797"
+        },
+        {
+          "path": "assets/source/quality-foliage/flower_gazania/textures/flower_gazania_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_gazania/flower_gazania_nor_gl_1k.jpg",
+          "bytes": 874324,
+          "md5": "072dc75b84857662454cdcac932e4732",
+          "sha256": "802d0f9234ccd778c537b3b5ea3714f219d73a80ab794ea77271ab47dbbc9789"
+        },
+        {
+          "path": "assets/source/quality-foliage/flower_gazania/textures/flower_gazania_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_gazania/flower_gazania_diff_1k.jpg",
+          "bytes": 435784,
+          "md5": "617b04076469b00d231225d565f520f4",
+          "sha256": "9d3022ebe7bfe0493a3e46aad87ea4746ea51df8c8b3e19294f1bb718a3147bb"
+        },
+        {
+          "path": "assets/source/quality-foliage/flower_gazania/textures/flower_gazania_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_gazania/flower_gazania_arm_1k.jpg",
+          "bytes": 670914,
+          "md5": "7ccebc1c751aa6a012867583e5380f0c",
+          "sha256": "80800dca73ad66b8c51b089db771b7a15c9e57dfd959e0da5cde434b3d8151b4"
+        }
+      ],
+      "meshes": [
+        {
+          "index": 0,
+          "name": "Plane.097",
+          "triangles": 416
+        },
+        {
+          "index": 1,
+          "name": "Plane.089",
+          "triangles": 448
+        },
+        {
+          "index": 2,
+          "name": "Plane.170",
+          "triangles": 752
+        },
+        {
+          "index": 3,
+          "name": "Plane.279",
+          "triangles": 1348
+        },
+        {
+          "index": 4,
+          "name": "Plane.164",
+          "triangles": 3540
+        },
+        {
+          "index": 5,
+          "name": "Plane.108",
+          "triangles": 3004
+        },
+        {
+          "index": 6,
+          "name": "Plane.082",
+          "triangles": 2728
+        },
+        {
+          "index": 7,
+          "name": "Plane.227",
+          "triangles": 2104
+        }
+      ],
+      "integrated": false
+    }
+  }
+}

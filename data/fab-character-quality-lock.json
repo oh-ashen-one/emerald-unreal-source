@@ -1,0 +1,30 @@
+{
+  "assets": [
+    {
+      "name": "Cartoon Cute Girl Rigged",
+      "publisher": "giyas3dartist",
+      "url": "https://www.fab.com/listings/ca38f60f-6527-4330-82cf-1ccdc1eb4ee6",
+      "license": "Fab Standard License",
+      "license_url": "https://www.fab.com/eula",
+      "checked": "2026-11-13",
+      "free_standard_live_ui_verified": true,
+      "archive": "assets/source/fab-characters/little_kid1__glb.zip",
+      "archive_bytes": 49915597,
+      "archive_sha256": "db65ef836c752992cc4b3f4a25a8ac5de127dfe0dce14952c2e8e9371335a78f",
+      "file": "assets/source/fab-characters/CartoonCuteGirl.glb",
+      "bytes": 71390604,
+      "sha256": "895e28a3e620962265d1c020905fd736f79fd5e933cf26da13792c5d9a2c8664",
+      "source_bytes_modified": false,
+      "native_import_verified": true,
+      "quality_gate_passed": false,
+      "archive_member": "Little Kid1 _Glb/Little Kid1.glb",
+      "source_mesh_parts": 9,
+      "native_skeleton_bones": 264,
+      "source_triangles": 72522,
+      "inspected_reference_run": "out/quality-pass/character-gallery/20261113-224651",
+      "native_modular_playback_run": "out/quality-pass/character-gallery/20261113-233419",
+      "runtime_world_verified": true,
+      "inspected_world_run": "out/quality-pass/after/20261113-234711"
+    }
+  ]
+}

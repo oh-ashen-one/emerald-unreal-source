@@ -1,0 +1,84 @@
+{
+  "source": "Installed Unreal Engine 5.8.3 ArchVis Template Examples",
+  "license": "Epic Unreal Engine EULA: Examples from installed Templates; not CC0",
+  "license_url": "https://www.unrealengine.com/eula/unreal",
+  "checked": "2026-11-13",
+  "source_root": "Templates/TemplateResources/Standard/ArchVis/Content",
+  "package": "/Game/ArchVis/SampleScene/Tree/HillTree_02",
+  "files": [
+    {
+      "source": "SampleScene/Tree/HillTree_02.uasset",
+      "target": "ArchVis/SampleScene/Tree/HillTree_02.uasset",
+      "bytes": 4795598,
+      "sha256": "cacda293bb6be786e4192292e98a8548603442db0102aff0a7d0da75e8f63838"
+    },
+    {
+      "source": "SampleScene/Tree/Materials/M_HillTree_01_Branches.uasset",
+      "target": "ArchVis/SampleScene/Tree/Materials/M_HillTree_01_Branches.uasset",
+      "bytes": 160971,
+      "sha256": "7945b9fbe1693eca5b20310723f3079fd4240ad2be842c070cbf7b665f75f602"
+    },
+    {
+      "source": "SampleScene/Tree/Materials/M_HillTree_01_Branches_2.uasset",
+      "target": "ArchVis/SampleScene/Tree/Materials/M_HillTree_01_Branches_2.uasset",
+      "bytes": 106665,
+      "sha256": "c674efa99ee5cd5687cb69a4e28960cdde659aa567c310ea998c3209d3653683"
+    },
+    {
+      "source": "SampleScene/Tree/Materials/M_HillTree_01_Fronds.uasset",
+      "target": "ArchVis/SampleScene/Tree/Materials/M_HillTree_01_Fronds.uasset",
+      "bytes": 160601,
+      "sha256": "8c0b02f85690d47926197febc18a59b80f8b43c2d520759cf5c82da7d97b56eb"
+    },
+    {
+      "source": "SampleScene/Tree/Materials/M_HillTree_01_Leaves.uasset",
+      "target": "ArchVis/SampleScene/Tree/Materials/M_HillTree_01_Leaves.uasset",
+      "bytes": 159642,
+      "sha256": "99491c75b3210ca431dbde94ce6e3f4732d1eae818164f79589c03b554a0e640"
+    },
+    {
+      "source": "SampleScene/Tree/Textures/T_Craghead_Oak_LimbTile_02_D.uasset",
+      "target": "ArchVis/SampleScene/Tree/Textures/T_Craghead_Oak_LimbTile_02_D.uasset",
+      "bytes": 2709769,
+      "sha256": "498d83ea0a10ce8696da250f6ab988d5d9d65fa55c410a9375d5e60fcf631417"
+    },
+    {
+      "source": "SampleScene/Tree/Textures/T_Craghead_Oak_LimbTile_02_N.uasset",
+      "target": "ArchVis/SampleScene/Tree/Textures/T_Craghead_Oak_LimbTile_02_N.uasset",
+      "bytes": 3181780,
+      "sha256": "8d07d247bfb04d2944ce0d49d2b3208f857002f07f80d98cdeff12e1cda66a7e"
+    },
+    {
+      "source": "SampleScene/Tree/Textures/T_Craghead_Oak_Tile_01_D.uasset",
+      "target": "ArchVis/SampleScene/Tree/Textures/T_Craghead_Oak_Tile_01_D.uasset",
+      "bytes": 1357241,
+      "sha256": "7941abc2475a646943d3204d644cb500e250c99d78ed656006057d45f5e376ab"
+    },
+    {
+      "source": "SampleScene/Tree/Textures/T_Craghead_Oak_Tile_01_N.uasset",
+      "target": "ArchVis/SampleScene/Tree/Textures/T_Craghead_Oak_Tile_01_N.uasset",
+      "bytes": 1616743,
+      "sha256": "5f96b50fcfe0c52a568c7b7dce9bbbf842558a863a72b033b617b1b9ab43c718"
+    },
+    {
+      "source": "SampleScene/Tree/Textures/T_HillTree_01_Atlas.uasset",
+      "target": "ArchVis/SampleScene/Tree/Textures/T_HillTree_01_Atlas.uasset",
+      "bytes": 4175857,
+      "sha256": "1bfc60171084909e3babd04f43a4ccfb2a206b0a9a3e94902efa6421b1699a07"
+    },
+    {
+      "source": "SampleScene/Tree/Textures/T_HillTree_01_Atlas_N.uasset",
+      "target": "ArchVis/SampleScene/Tree/Textures/T_HillTree_01_Atlas_N.uasset",
+      "bytes": 5699714,
+      "sha256": "b1e5e825363d24958f349d202881659b09d0ae9e6098f7664f1972b43c828f3d"
+    },
+    {
+      "source": "SampleScene/Tree/Textures/T_HillTree_01_Atlas_S.uasset",
+      "target": "ArchVis/SampleScene/Tree/Textures/T_HillTree_01_Atlas_S.uasset",
+      "bytes": 6080786,
+      "sha256": "eb2d53b1be664b7c5ad19e66f5efbdf646d6232072035816de7ec0c7036cb5b1"
+    }
+  ],
+  "modified": false,
+  "raw_distribution": "Ignored local authoring content only; acquisition recipe and hashes in Git"
+}

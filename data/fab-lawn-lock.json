@@ -1,0 +1,75 @@
+{
+  "name": "Lawn Grass",
+  "creator": "Quixel Megascans",
+  "url": "https://www.fab.com/listings/f50d1f4a-d91a-41c2-86ad-10c4ffe7f658",
+  "license": "Fab Standard License",
+  "license_url": "https://www.fab.com/eula",
+  "free_verified": true,
+  "checked": "2026-11-14",
+  "archive": "assets/downloads/lawn_grass_tkynejer_4k.zip",
+  "archive_bytes": 159036649,
+  "archive_sha256": "9c9bed78c6b970240c6b2b822da435c4e7466f867a8b83a46d6a476387b818bd",
+  "physical_width_cm": 200,
+  "files": [
+    {
+      "member": "Lawn_Grass_tkynejer_4K_AO.jpg",
+      "path": "assets/source/quality-lawn/Lawn_Grass_tkynejer_4K_AO.jpg",
+      "bytes": 18007000,
+      "sha256": "fb4a3318040c87045e46e0c548b4f27d12b991045e7c371a184c97df7c187455"
+    },
+    {
+      "member": "Lawn_Grass_tkynejer_4K_BaseColor.jpg",
+      "path": "assets/source/quality-lawn/Lawn_Grass_tkynejer_4K_BaseColor.jpg",
+      "bytes": 23569903,
+      "sha256": "d061e96e9f7c0c78d5af1b26c59eef7c1dd62c3e19e699b917444aaf1b01edd8"
+    },
+    {
+      "member": "Lawn_Grass_tkynejer_4K_Bump.jpg",
+      "path": "assets/source/quality-lawn/Lawn_Grass_tkynejer_4K_Bump.jpg",
+      "bytes": 10329475,
+      "sha256": "aa577280945cd53ca8aa1cbd190f6c473891bf10f7fc2b59c3836ab80a7b6e86"
+    },
+    {
+      "member": "Lawn_Grass_tkynejer_4K_Cavity.jpg",
+      "path": "assets/source/quality-lawn/Lawn_Grass_tkynejer_4K_Cavity.jpg",
+      "bytes": 17933229,
+      "sha256": "d515a9b53d99455795d620f3dfa7f8e5fc8098833910433dd03672119bab962d"
+    },
+    {
+      "member": "Lawn_Grass_tkynejer_4K_Displacement.jpg",
+      "path": "assets/source/quality-lawn/Lawn_Grass_tkynejer_4K_Displacement.jpg",
+      "bytes": 6846562,
+      "sha256": "05d953ff6ea1e6c59e510dcb6012c03a244272d3538d553820cb9be7c26a5255"
+    },
+    {
+      "member": "Lawn_Grass_tkynejer_4K_Gloss.jpg",
+      "path": "assets/source/quality-lawn/Lawn_Grass_tkynejer_4K_Gloss.jpg",
+      "bytes": 12358216,
+      "sha256": "1c35666de4dd7b6c117c97e3ee7608a528fefc6194839cd3e51d9cb3dfb31118"
+    },
+    {
+      "member": "Lawn_Grass_tkynejer_4K_Normal.jpg",
+      "path": "assets/source/quality-lawn/Lawn_Grass_tkynejer_4K_Normal.jpg",
+      "bytes": 46791353,
+      "sha256": "f6273399cf07e316863e430df23a0c0a1d2eff4348167f5f5cdbc2636d954f78"
+    },
+    {
+      "member": "Lawn_Grass_tkynejer_4K_Roughness.jpg",
+      "path": "assets/source/quality-lawn/Lawn_Grass_tkynejer_4K_Roughness.jpg",
+      "bytes": 12066119,
+      "sha256": "0671daa55d5de87355a690f4a5dd133866d56e6411d003222a37421d7985c77d"
+    },
+    {
+      "member": "Lawn_Grass_tkynejer_4K_Specular.jpg",
+      "path": "assets/source/quality-lawn/Lawn_Grass_tkynejer_4K_Specular.jpg",
+      "bytes": 11096050,
+      "sha256": "425ff783026b691e3d33c35dbd7ef1010809e356ad097b4114a64c1ca257e541"
+    },
+    {
+      "member": "tkynejer.json",
+      "path": "assets/source/quality-lawn/tkynejer.json",
+      "bytes": 13036,
+      "sha256": "64b8ade2ea6a5fe20d4b704b964a7f1d9d6e00366d05e3ddc895bbc4be5a11d9"
+    }
+  ]
+}

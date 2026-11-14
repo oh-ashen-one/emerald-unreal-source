@@ -1,0 +1,33 @@
+{
+  "source": "https://polyhaven.com/a/clay_roof_tiles_02",
+  "creator": "Amal Kumar",
+  "license": "CC0-1.0",
+  "physical_width_cm": 250,
+  "art_tile_width_cm": 250,
+  "files": [
+    {
+      "channel": "Diffuse",
+      "path": "assets/source/clay_roof_tiles_02/clay_roof_tiles_02_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/clay_roof_tiles_02/clay_roof_tiles_02_diff_2k.jpg",
+      "sha256": "570e1878985993bf81433d785b4fa2d4ab9f6d32447706193089b11ff0851731",
+      "bytes": 3459427,
+      "upstream_md5": "0a1350644116c58a19908b22f569bf8e"
+    },
+    {
+      "channel": "nor_dx",
+      "path": "assets/source/clay_roof_tiles_02/clay_roof_tiles_02_nor_dx_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/clay_roof_tiles_02/clay_roof_tiles_02_nor_dx_2k.jpg",
+      "sha256": "292320e0518ead151aa73bd543e9f94eca1b922698787d0b8be81deec215bf20",
+      "bytes": 3509214,
+      "upstream_md5": "4cc566cb986d7c6ead6dad18d3efd3b1"
+    },
+    {
+      "channel": "arm",
+      "path": "assets/source/clay_roof_tiles_02/clay_roof_tiles_02_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/clay_roof_tiles_02/clay_roof_tiles_02_arm_2k.jpg",
+      "sha256": "8e7cb954ebff60591bb19fb950f6e85727793caca16077bc2b42222e050efbb7",
+      "bytes": 2014906,
+      "upstream_md5": "0b690f55feebb1a697fc0fbe5a73a36b"
+    }
+  ]
+}

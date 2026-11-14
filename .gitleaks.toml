@@ -1,0 +1,17 @@
+title = "Shared brain publication checks"
+
+# Keep upstream provider coverage; custom rules close observed gaps, not replace it.
+[extend]
+useDefault = true
+
+[[rules]]
+id = "netlify-personal-access-token"
+description = "Netlify PAT-shaped candidate missed by the audited default rules"
+regex = '''\bnfp_[A-Za-z0-9_-]{20,}\b'''
+keywords = ["nfp_"]
+
+# Verified upstream file SHA256 entries; exact JSON hash lines only.
+[allowlist]
+description = "Recomputed source-file digests whose path contains secret; not credentials"
+regexTarget = "line"
+regexes = ['''^\s*"(?:data/scripts/secret_base\.inc|include/constants/secret_bases\.h)":\s*"[0-9a-f]{64}",?\s*$''']

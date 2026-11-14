@@ -1,0 +1,52 @@
+{
+  "source": "https://quaternius.com/packs/ultimatedanimatedcharacter.html",
+  "creator": "Quaternius",
+  "license": "CC0-1.0",
+  "license_file": "assets/source/quaternius-characters/License.txt",
+  "source_folder": "https://drive.google.com/drive/folders/1sNi1AfenfPRrvRt5yfaj5QMMd6KKcUJ5",
+  "acquisition": "Official public Drive folder; connector raw file references materialized via stdin without logging/persisting temporary URLs; no account changes",
+  "files": [
+    {
+      "name": "Doctor_Male_Young",
+      "path": "assets/source/quaternius-characters/Doctor_Male_Young.gltf",
+      "drive_id": "17p9Xl0UQ_kMiHdCfAuT8N-k4EU-j8ZD1",
+      "url": "https://drive.google.com/file/d/17p9Xl0UQ_kMiHdCfAuT8N-k4EU-j8ZD1/view",
+      "bytes": 2049445,
+      "sha256": "4f39182b6ecff6affac27f7c4cb2abf9529d68be4a77cc71343b40a83fe6e0cd"
+    },
+    {
+      "name": "Casual_Male",
+      "path": "assets/source/quaternius-characters/Casual_Male.gltf",
+      "drive_id": "1rrj82IYNaSWj5ySxR6fW9oojyHFiW7_r",
+      "url": "https://drive.google.com/file/d/1rrj82IYNaSWj5ySxR6fW9oojyHFiW7_r/view",
+      "bytes": 2048792,
+      "sha256": "db66b2424af60d7799760795ca63c8a5be1c8af64e9f134217f0a3ff9e405379"
+    },
+    {
+      "name": "Casual_Female",
+      "path": "assets/source/quaternius-characters/Casual_Female.gltf",
+      "drive_id": "1E79ks2jbMt5iIrI8Ag9lRgA0VRnfU4pk",
+      "url": "https://drive.google.com/file/d/1E79ks2jbMt5iIrI8Ag9lRgA0VRnfU4pk/view",
+      "bytes": 2058883,
+      "sha256": "87327963ab0f37d004c7340d130808727f3d67b724c3d41aad01fd63c7d6fc8a"
+    },
+    {
+      "name": "Casual_Bald",
+      "path": "assets/source/quaternius-characters/Casual_Bald.gltf",
+      "drive_id": "1CCFvA8E1HqW5UIBaxPoZZwuZJfgyiDlk",
+      "url": "https://drive.google.com/file/d/1CCFvA8E1HqW5UIBaxPoZZwuZJfgyiDlk/view",
+      "bytes": 1688080,
+      "sha256": "a75e2ade5703cd02371d7f38bb6ab307d94a7db2f07d4a219f9248fdecab5e6a"
+    }
+  ],
+  "acquired_date": "2026-11-13",
+  "license_copy_normalized_newlines": true,
+  "installed_engine_assets": [
+    {
+      "path": "/Engine/BasicShapes/Sphere.Sphere",
+      "creator": "Epic Games",
+      "use": "Item-ball geometric base; project material from original sprite palette",
+      "license_scope": "Installed Unreal Engine content for use in this UE project; no raw redistribution"
+    }
+  ]
+}

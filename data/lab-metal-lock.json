@@ -1,0 +1,35 @@
+{
+  "name": "Metal Plate 02",
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "url": "https://polyhaven.com/a/metal_plate_02",
+  "license": "CC0-1.0",
+  "license_url": "https://polyhaven.com/license",
+  "files": [
+    {
+      "channel": "diff",
+      "path": "assets/source/lab-metal/metal_plate_02_diff_4k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/metal_plate_02/metal_plate_02_diff_4k.jpg",
+      "bytes": 10488395,
+      "sha256": "8f87ae49fa2e8245db08f18d4847fbdd75f2ef03c6405c7f90679b137541bb53",
+      "upstream_md5": "c4370bd32fb9dd0f2ce58d4c2ede618e"
+    },
+    {
+      "channel": "nor_gl",
+      "path": "assets/source/lab-metal/metal_plate_02_nor_gl_4k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/metal_plate_02/metal_plate_02_nor_gl_4k.jpg",
+      "bytes": 1723616,
+      "sha256": "7b5ddff95f81da6575e5f20694b0a4330a158ef479ed5c489492db805987e8e1",
+      "upstream_md5": "c262a7bd862510551b5912fad22066d7"
+    },
+    {
+      "channel": "arm",
+      "path": "assets/source/lab-metal/metal_plate_02_arm_4k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/metal_plate_02/metal_plate_02_arm_4k.jpg",
+      "bytes": 18204849,
+      "sha256": "9d731995e12982029a3cb5f65c9b3d94feaf4ea0920d5f1ab1261dc58ffe5eb9",
+      "upstream_md5": "f8c78b487f5758b2fbf94542e9d93dbc"
+    }
+  ]
+}

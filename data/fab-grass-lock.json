@@ -1,0 +1,65 @@
+{
+  "name": "Kikuyu Grass",
+  "creator": "Quixel Megascans",
+  "url": "https://www.fab.com/listings/4a7f5036-b879-4910-a5f2-271ccff93b32",
+  "license": "Fab Standard License",
+  "license_url": "https://www.fab.com/eula",
+  "checked": "2026-11-14",
+  "free_verified": true,
+  "archive": "assets/downloads/kikuyu_grass_wiljearqx_ue_high.zip",
+  "archive_bytes": 61458856,
+  "archive_sha256": "c529a7ba52770a27364be10022e102d3a0928d24b7e5af55a8e5bd13196b8291",
+  "files": [
+    {
+      "member": "wiljearqx_tier_1.bin",
+      "bytes": 5206640,
+      "sha256": "417e299142116d060ba9d694901d37a77dcdeaef0a967478e24a443dffe6910f"
+    },
+    {
+      "member": "wiljearqx_tier_1.gltf",
+      "bytes": 81189,
+      "sha256": "b3d92e6c8ce892493a9d0e8b04cd5605c2dc6f5cf544553ed8499c544c6739c6"
+    },
+    {
+      "member": "standard/wiljearqx_tier_1_nonUE.gltf",
+      "bytes": 84315,
+      "sha256": "2c22d66da72a1d295adb8d36540fbc133b841d4ea0b25239cfde0f903a597ca8"
+    },
+    {
+      "member": "Textures/T_wiljearqx_4K_B-O.png",
+      "bytes": 8158822,
+      "sha256": "3c6518bc31d2a43c0d97de1a26f477147ce99e10a7c16c2edf2ecf37a789b922"
+    },
+    {
+      "member": "Textures/T_wiljearqx_4K_B.png",
+      "bytes": 6943168,
+      "sha256": "4d017751eece4ba7a3d2ef2e8949a28759ce25368e6da2810b857d58a7bbd6d6"
+    },
+    {
+      "member": "Textures/T_wiljearqx_4K_Billboard_B-O.png",
+      "bytes": 15515361,
+      "sha256": "527acb4f779550bc3b62a554693a5e20e6cbae3a3d11a98bfa940a3bd5d8f6af"
+    },
+    {
+      "member": "Textures/T_wiljearqx_4K_Billboard_N-T.png",
+      "bytes": 17073294,
+      "sha256": "732c322b4626ed918ea7b48cb8530421f406ec224d6d70fd9d51937383009274"
+    },
+    {
+      "member": "Textures/T_wiljearqx_4K_N.png",
+      "bytes": 5766518,
+      "sha256": "c044f2458298c67c42553d9adcd606d6fe3d1ee6f3d6d84ac67292fa033bedb6"
+    },
+    {
+      "member": "Textures/T_wiljearqx_4K_ORT.png",
+      "bytes": 5267032,
+      "sha256": "6a4fe11b554be2259570455d342add447269cc812598ba059e4064caa5a8e9ed"
+    },
+    {
+      "member": "wiljearqx.json",
+      "bytes": 45397,
+      "sha256": "1409fb45cc8a7b4eee6970ae5d0e116df8a13e752117e3d1c1469980cfde43fa"
+    }
+  ],
+  "scope": "Original high package8variants/4LODs. Prepare complete per-variant LOD0 without overlaying LODs; masked two-sided foliage uses native ORT channel contract. World quality still unverified."
+}

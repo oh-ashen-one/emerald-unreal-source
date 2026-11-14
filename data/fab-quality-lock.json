@@ -1,0 +1,1157 @@
+{
+  "checked": "2026-11-13",
+  "assets": [
+    {
+      "name": "FREE Stylized Forest Sample | Stylized Trees & Foliage Pack",
+      "publisher": "StyleHex Studio",
+      "url": "https://www.fab.com/listings/3c1a31b6-e523-4a0f-97d0-26b0db69b6bc",
+      "license": "Fab Standard License",
+      "license_url": "https://www.fab.com/eula",
+      "authorization": "Owner explicitly authorized all free Fab assets on November13; already owned library entitlement and on-disk cache visually verified",
+      "cache_content_relative": "FREEStyl1eb6f994e151V1/data/Content",
+      "files": [
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Foliage_Assets/Fol_Grass_1.uasset",
+          "bytes": 7733,
+          "sha256": "05b92334d3216d4c6d42dccc923753accbfdd3bee9913f8dd51e2827f8984ac9"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Foliage_Assets/Fol_Grass_2.uasset",
+          "bytes": 7733,
+          "sha256": "6395f31688b5e1f8e9b1044362e26cf29dd1cac24d4366fb8d9e98c8dc124b2b"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Foliage/MI_Fol_Bushes.uasset",
+          "bytes": 113867,
+          "sha256": "9eeff72c6628cc4ec25db698890056d33ce3ea23bc69ac1f89e74a86ae77864e"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Foliage/MI_Fol_Flower_Atlas.uasset",
+          "bytes": 122650,
+          "sha256": "562f7158374388c70fb162172956ea1018568d0a363823ae8d5c4b886237d0e8"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Foliage/MI_Fol_Grass_Atlas.uasset",
+          "bytes": 124388,
+          "sha256": "93f6daa5f981b1bfb08812d80778f4b689ff1b31a7cf5cd9db61807a1cee1a9b"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Stones/MI_Stone_Boulder.uasset",
+          "bytes": 112503,
+          "sha256": "53e9f0d62012c7568994ea42ec15ac6bf9677c3667f8bf4b0f542d1915861c74"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Stones/MI_Stone_Set.uasset",
+          "bytes": 103934,
+          "sha256": "3913e736953b6d7899af3b01acbe1e02e8f529bf22922ea407f705f6434fa933"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Terrain/MI_Terrain_Birch_Forest_Demo.uasset",
+          "bytes": 105953,
+          "sha256": "93c3d40c1b79dec41c9231f7e29d012be925de38456b22b926078b1e61a70549"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Terrain/M_Terrain_VT_Birch_Forest_STARTER.uasset",
+          "bytes": 147639,
+          "sha256": "fd8e6ff1ccb007430c38a1c6fd221da9baa46c30c2420d85f4dada9b91d23800"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Trees/MI_Tree_Birch_Trunk.uasset",
+          "bytes": 101453,
+          "sha256": "f9c0842dc042a0880470056184c2536289794426664f863f646a2cf9e5d3bbfc"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Trees/MI_Tree_Broadleaf_Trunk.uasset",
+          "bytes": 105830,
+          "sha256": "8353870c69ee4d5f21f7a322e1eb443cf8897035a037fcd0548acf2858aa39d3"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Trees/MI_Tree_Leaves_Birch_A.uasset",
+          "bytes": 121515,
+          "sha256": "c6e31f5664b7700f047c9276125ee8e67ae550bf01f9b79767b244f896067e71"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Materials/Mat_Trees/MI_Tree_Leaves_Broadleaf.uasset",
+          "bytes": 122346,
+          "sha256": "1f69173f55d0def7cfbf730b040db92d824eb99ae46196be43aa55a0b89cc7d3"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Bush_1.uasset",
+          "bytes": 164509,
+          "sha256": "1bb61fe2244c108114c8a8b1633b443db28c8e7ad3de89e1c9d8399c66bc505d"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Bush_2.uasset",
+          "bytes": 187544,
+          "sha256": "1b13f187640e38d9a31d85f6835ee81b0880202c377d11aa3c539115a4138f31"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Flower_Clump_1.uasset",
+          "bytes": 100855,
+          "sha256": "f5cd6e530feb17ffb9bbd4d3144cbece3742866d1101868170f8d447a8c4a216"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Flower_Clump_2.uasset",
+          "bytes": 103084,
+          "sha256": "aca363551458b711928d9393d2b9f79fc54da4ced79c55e9b5f4d405fdb97034"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Flower_Clump_3.uasset",
+          "bytes": 99343,
+          "sha256": "ebbe5e2e5188b459e6348daa75e3f5199b5ff2ab7f3ec516309968036610ffa2"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Grass_Clump_1.uasset",
+          "bytes": 120295,
+          "sha256": "5be905460f01edf98b08f84b406c66df3067b6422fb8c2a4cd993d8f6908e0a6"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Grass_Clump_2.uasset",
+          "bytes": 124932,
+          "sha256": "0cada5212d946f643ee3d289466d7f355b4d09ed81a37b9ae98194bdacdc692d"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Grass_Clump_3.uasset",
+          "bytes": 117251,
+          "sha256": "b2836d9fd4bbe26597234adfc8f1363b2286f35933296882e8f475de397ff68e"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Grass_Clump_4.uasset",
+          "bytes": 109788,
+          "sha256": "36d76195a673618b41dd94da08cc9446cc4f0832787f0ed8a613e836259125b7"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Foliage/SM_Fol_Grass_Clump_5.uasset",
+          "bytes": 113870,
+          "sha256": "71497115d4b4cb3f69c067c4bee0cb230b3e461a0685bd7ca64681fa8679810d"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Stones/SM_Stone_1.uasset",
+          "bytes": 111394,
+          "sha256": "d186640b2fb24bc33cc030273f859200cd1f8160b650b613bf7ef9d6db637263"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Stones/SM_Stone_2.uasset",
+          "bytes": 125137,
+          "sha256": "dcb2396b37b3aec9f19edaca2625cc653d3f091ef76d189fe29b786875b47c01"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Stones/SM_Stone_3.uasset",
+          "bytes": 131377,
+          "sha256": "f7b87372dcc830e40c537b52edc9b02b3c2df0dd02acf28c7e4a324be4a18b7a"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Stones/SM_Stone_Boulder_1.uasset",
+          "bytes": 178100,
+          "sha256": "9963ccf63590a7532ac74cf6ba0f6dc8fbc8a45fc12789a826768be70e2a204a"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Trees/SM_Tree_Birch_1.uasset",
+          "bytes": 652329,
+          "sha256": "5506ee69e2f3da62c9940d0ea99b455b481dcd2e0a3b56636494603ab96ca653"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Trees/SM_Tree_Birch_2.uasset",
+          "bytes": 698967,
+          "sha256": "566f6e070c77fabf362be4a9696b972ca0c482b9db2f4568a574567e1ba06008"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Trees/SM_Tree_Broadleaf_1.uasset",
+          "bytes": 628969,
+          "sha256": "1c68121117d6f8acab38e6d6a2b62dd7b64072658bc04d81f9774fa240934238"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Meshes/Trees/SM_Tree_Broadleaf_2.uasset",
+          "bytes": 503305,
+          "sha256": "05b8d88ec277be81b461d450b0f113b2fe7edc195b12d7dc7c6cc878967bf083"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Foliage/T_Flower_Atlas_BC.uasset",
+          "bytes": 1411338,
+          "sha256": "77991cef69130a49bfe4b1a83834ca5025b0406f9bbeb33728da26c2d79e30b3"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Foliage/T_Flower_Atlas_Color_Mask.uasset",
+          "bytes": 5585,
+          "sha256": "b8a422150f48e3f75b042d5e9aba7bb0e6236bf5591b92fa1602de56f5e26cda"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Foliage/T_Flower_Atlas_Opacity.uasset",
+          "bytes": 496932,
+          "sha256": "138ecd1fa8c289ffcc01104967c22920ac1aea9aa2669289a665326a2e39620b"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Foliage/T_Grass_Opacity.uasset",
+          "bytes": 202286,
+          "sha256": "2286817a9da7e48243184c6acc3107fd3a77c992a55f38e2f3f76c806f9ed615"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Stones/T_Stone_Boulder_1_BC.uasset",
+          "bytes": 4717926,
+          "sha256": "8969360168c3c295217b643a1d52c1e2537cd8779ac1dd3bc8ef04433013e345"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Stones/T_Stone_Boulder_1_N.uasset",
+          "bytes": 4109336,
+          "sha256": "78851111cba9959fad3adb96e3a0b200d69432939b2fae3ca7b4a542027e87b9"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Stones/T_Stone_Boulder_1_ORM.uasset",
+          "bytes": 4063834,
+          "sha256": "2e1ef95cc0727fcbff95a7a82a6fa84d0aa409d1f3e849de0568b1767fd7bf05"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Stones/T_Stone_Set_1_BC.uasset",
+          "bytes": 4217776,
+          "sha256": "b1f0e9b2a1c51d747cc67a9b1d3199fb1e83c3f612c2c9c0d9241d4981a8df7d"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Stones/T_Stone_Set_1_N.uasset",
+          "bytes": 3704651,
+          "sha256": "5a7b75fb3e79e66e09789676823ce1c01468d577ba42e8aa355fbf6450a35b23"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Stones/T_Stone_Set_1_ORM.uasset",
+          "bytes": 3570110,
+          "sha256": "03e2cf95c4fb5da0f2457714f40fbf9307193c490c1fcbbf05a451a669ee759f"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Trees/T_Tree_Leaf_Opacity.uasset",
+          "bytes": 175510,
+          "sha256": "328237c2bc05defcd194d79b9a09e3ca72b3be37ba99d30d2e4d261c802f40c8"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Trees/T_Tree_Trunk_Birch_BC.uasset",
+          "bytes": 4654708,
+          "sha256": "f46ec4f8bdd1f5bbfe727706cdd38403dd583f36ebd004562186d92eda2a7d1e"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Trees/T_Tree_Trunk_Birch_N.uasset",
+          "bytes": 4314928,
+          "sha256": "ee4a2d355b5b2c80d03ddcfb72305385fbc168b67b24044e6f8e46303ecd0026"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Trees/T_Tree_Trunk_Birch_ORM.uasset",
+          "bytes": 3111356,
+          "sha256": "7045dc9990637e9ab3f47f1178df571c9645f3b596a6e2892e85a8bbbfbed33c"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Trees/T_Tree_Trunk_Broadleaf_BC.uasset",
+          "bytes": 2750078,
+          "sha256": "2bf81c6b26c2df39ebcf5585851f74d6d1ad8f44003ce9e5d8a6a87971b88dfe"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Trees/T_Tree_Trunk_Broadleaf_N.uasset",
+          "bytes": 4288583,
+          "sha256": "288be7ef074446b479fc86fef6d03222e567cd94f2b17d7a61213fe425beedcd"
+        },
+        {
+          "path": "StyleHex_Studio/Free_Packs/FREE_Stylized_Forest_Sample/Textures/Trees/T_Tree_Trunk_Broadleaf_ORM.uasset",
+          "bytes": 2773421,
+          "sha256": "cb97ff731277e1a46d18cbf4e5ca1afcdee3f62e002364f421a54947d68a6ff0"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Global_Settings/MPC_Wind_Global_STARTER.uasset",
+          "bytes": 2460,
+          "sha256": "b658ed181e5f93c5dcc3b90462ad5d932a953674b34ddad444dd534a46f05ad6"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Master_Materials/M_Environment_Basic.uasset",
+          "bytes": 124502,
+          "sha256": "17f4e5c5644073afa27932688624eb39acaf0e30ee796cac76fc40bf0639e412"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Master_Materials/M_Foliage_Flowers_Master_STARTER.uasset",
+          "bytes": 158058,
+          "sha256": "c83fb1c32d711fb8ba03f05f96028ebaf543762426b9bcf34c0f9b9e63bd8474"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Master_Materials/M_Foliage_Grass_Master_STARTER.uasset",
+          "bytes": 158027,
+          "sha256": "c757865a4e68b5b728c00392b28d9c12797d81d470e98bddf918839259ccbe27"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Master_Materials/M_Foliage_Leaves_Master_STARTER.uasset",
+          "bytes": 143579,
+          "sha256": "e4e70790bd65b95088c455ba0d1162367c121a8eb918a37a0e41969bd1fe7473"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Master_Materials_Utility/Material_Instances/MI_Grid_Preview_A.uasset",
+          "bytes": 93299,
+          "sha256": "9448a4ff22df2dfb7304abad4a75c10fbebb4a1d5f1b64b4d7639c2c88ac5531"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Master_Materials_Utility/Material_Instances/MI_Preview_Fog_Far.uasset",
+          "bytes": 85374,
+          "sha256": "1ab8d02bc558db25d9585fe7723b0cfb74e983d658316e3fea6cedf5f2f292e0"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Master_Materials_Utility/Material_Masters/M_Gid_Preview.uasset",
+          "bytes": 161725,
+          "sha256": "27bd90c02bca6f24aebd970c50fd16684625ae8dd2e87fc1725c7d53c7856ab9"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Master_Materials_Utility/Material_Masters/M_Preview_Fog.uasset",
+          "bytes": 90859,
+          "sha256": "9a14e5fdd7d09fd9d55533918efd2f221d56005ace26e7e6c62035ee1754c9b0"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Material_Functions/MF_Common/MF_AdvancedDithering.uasset",
+          "bytes": 94446,
+          "sha256": "4a3a7687ec9becaacf96d9514d6e5110444801077b3876c3f83bc8b4023dcac4"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Material_Functions/MF_Common/MF_Custom_PDO.uasset",
+          "bytes": 53502,
+          "sha256": "3a51aaf681043c266cf488d712d9627aa6822bed4a8d8b21d63369d55d461599"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Material_Functions/MF_Common/MF_Foliage_Color_Basic.uasset",
+          "bytes": 112311,
+          "sha256": "c4780c92da96cd6f0c9b6b1dfb02a6315102ff9d7bed19f1f287cef27ceaa7c1"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Material_Functions/MF_Common/MF_Foliage_Normals.uasset",
+          "bytes": 73000,
+          "sha256": "7be49e2e433dae29ab30ca4a3253cd3b1ca6f1cb2510d2b56fd7d2a4c0f7bf4d"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Material_Functions/MF_Common/MF_Foliage_RVT.uasset",
+          "bytes": 100710,
+          "sha256": "25f8a40b37d2b4d5cabf3835fbc6eac6b7945972de243503f8f2e04476aa83b5"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Material_Functions/MF_Common/MF_Object_Local_Gradient.uasset",
+          "bytes": 90246,
+          "sha256": "d48d210615c0c4c3b7c10219bdc49aa71f06f218b3a416363d352d6fdd1903b6"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Material_Functions/MF_Common/MF_Wind_Basic_Sway.uasset",
+          "bytes": 54109,
+          "sha256": "b1b92b59cfc3b317cceda4a042c1288bcc2b50238a4f6dd8bc336ae037791218"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Material_Functions/MF_Terrain/MF_Terrain_Layer_Master.uasset",
+          "bytes": 130478,
+          "sha256": "95a2251107e4e4eebbc7da038ca046f22f3ce0b562641cd17097bfa93248e176"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Material_Functions/MF_Terrain/MF_Terrain_Macro.uasset",
+          "bytes": 112350,
+          "sha256": "a699158b81718ca051589def0b3694da96b0c02352c3769f26874ed6d914fed0"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Terrain/Shared_Terrain_Layers/MF_Terrain_Layers_Fsbf/MF_TL_Fsbf_Dirt_1.uasset",
+          "bytes": 90229,
+          "sha256": "5b421190b9db3efcd8ec9ed8bf5b6f9f7eef74083a6d7f8167ae68aef9b5b92e"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Terrain/Shared_Terrain_Layers/MF_Terrain_Layers_Fsbf/MF_TL_Fsbf_Dirt_2.uasset",
+          "bytes": 90113,
+          "sha256": "d5a5583e52ebe871440d4bc28292f771170b38b95c179ade3f539470ef4eb9fc"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Terrain/Shared_Terrain_Layers/MF_Terrain_Layers_Fsbf/MF_TL_Fsbf_Grass_1.uasset",
+          "bytes": 90301,
+          "sha256": "8ac161a6bceb5ba99761a021963716bf7da5734006e5e51ea308aee357c2494f"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Terrain/Shared_Terrain_Layers/MF_Terrain_Layers_Fsbf/MF_TL_Fsbf_Grass_2.uasset",
+          "bytes": 90185,
+          "sha256": "bef21f949b00e6164ab68910ae44570107d053e6cd614374c5d93f2b039c051e"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Terrain/Shared_Terrain_Textures/Terrain_Textures_FSBF/T_Fsbf_Terrain_Dirt_1_BC.uasset",
+          "bytes": 1595778,
+          "sha256": "ca8523f7a67694d934bc0f0889a90bfce64528be36765a54066d36e1d3f0ae92"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Terrain/Shared_Terrain_Textures/Terrain_Textures_FSBF/T_Fsbf_Terrain_Dirt_2_BC.uasset",
+          "bytes": 1745474,
+          "sha256": "1c023ecb854b7d26453b6e8719c0ee3cf2967ddaef3223bb0d29733e3091ae35"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Terrain/Shared_Terrain_Textures/Terrain_Textures_FSBF/T_Fsbf_Terrain_Grass_1_BC.uasset",
+          "bytes": 1239397,
+          "sha256": "177ac7fe3de92cf4b102ba51917e7bfc789e324776ee26859dba80b3a472d261"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Textures/Nosies/T_Bluenoise.uasset",
+          "bytes": 113626,
+          "sha256": "c1403211983e6851adb80b8b3ab50c1ed59c2ed2877c0af1d30cfb4c80deb760"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Textures/Nosies/T_Macro_Variation.uasset",
+          "bytes": 10810385,
+          "sha256": "a912a6e503ad0492cce0b68be3c037990863264b13b3c5441077dcb8b346cc50"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Textures/Nosies/T_Noise_1_Mask.uasset",
+          "bytes": 543567,
+          "sha256": "fd46cfe4cd77afb8b0566a396e71b218a466cd7a5b8c60af46c361f7148c329a"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Textures/Utility/T_Base_ORM.uasset",
+          "bytes": 4104,
+          "sha256": "52e2c265b5d32b0ccfedcb8c231762ba7dc811e93b48180d34adffdf28820c7b"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Textures/Utility/T_Default_Normal.uasset",
+          "bytes": 4270,
+          "sha256": "8b62357835dfe3bae41f6df6a2ed6ae841ab39796089efc99f962a0282c85150"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Textures/Utility/T_Gradient_Linear.uasset",
+          "bytes": 26721,
+          "sha256": "c37e2b8f9ab14f5c3549350520d9dcc2073fd4673f8cda76a4e1b762e441f867"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Textures/Utility/T_Grid_Mask.uasset",
+          "bytes": 14275,
+          "sha256": "a3908ab29e821af27e6f67ef6ff3a27f5ac133282e71297bdd43955e2fb2aab1"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_Textures/Utility/T_White_Linear.uasset",
+          "bytes": 4139,
+          "sha256": "320d3c3d4d2fbe97222741daa894e050385fd9731f638cfb1c112602f160ecd4"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_VT/VT_Terrain_Color_Demo.uasset",
+          "bytes": 3135,
+          "sha256": "8d67e351ba2b94224e3065e9564e8a4f93ced9668f5be6bf5f85c7a4585fabbe"
+        },
+        {
+          "path": "StyleHex_Studio/Shared_Resources/Free_Packs/Shared_VT/VT_Terrain_Grass_Color_Demo.uasset",
+          "bytes": 1692,
+          "sha256": "166443e2d17b1251b59f73fba4bf52c39f776c25a23d484c28678f05da3bd25e"
+        }
+      ],
+      "excluded": "Demo maps, level build data and Blueprint folders; no executables present",
+      "source_cache_modified": false,
+      "runtime_integration_verified": true,
+      "quality_gate_passed": false,
+      "inspected_run": "out/quality-pass/after/20261113-200422",
+      "used_mesh_families": [
+        "Broadleaf/Birch trees1-2",
+        "Grass clumps1-5",
+        "Flower clumps1-3",
+        "Stone1-3"
+      ]
+    },
+    {
+      "name": "FANTASTIC - Village Pack",
+      "publisher": "Tidal Flask Studios",
+      "url": "https://www.fab.com/listings/52529a12-e88e-41a0-8834-b87306f20c24",
+      "license": "Fab Standard License",
+      "license_url": "https://www.fab.com/eula",
+      "authorization": "Owner free-Fab authority; owned library and Standard License download dialog verified November13; current listing Free",
+      "cache_content_relative": "FANTASTIbe025cd56311V1/data/Content",
+      "files": [
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_CLR_black.uasset",
+          "bytes": 100341,
+          "sha256": "e9020ce54e57fdd351317e8f1d82a443f5f9551fd1cfd498548dc5ba9c1a6c75"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_CLR_emission_yellow.uasset",
+          "bytes": 79939,
+          "sha256": "ac069e2f16e3ac4a8e035dab1117a717d31aac2417c9b29e216713989cb60a7c"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_PROP_signpost.uasset",
+          "bytes": 136142,
+          "sha256": "c08b0cdd989325400ff7e7e03c5ca8169651cced589d4cc25e28d7c98a7e48ea"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_PROP_signs.uasset",
+          "bytes": 147285,
+          "sha256": "2d2eaf70a1f9531b4dd360cb5629d7196b758f5eb73cf03a5d021baf56ae7ea1"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_metal_01.uasset",
+          "bytes": 117164,
+          "sha256": "d52ef88f4ac9f437ceb2e7fc1fc891363f22eebab61c3f29fe80da2595058fe4"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_metal_02.uasset",
+          "bytes": 119423,
+          "sha256": "5a6c99580ecdc312d7e31976872b5e1d34e515901e7d31c97a16a6c5d592fc45"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_rooftiles_01.uasset",
+          "bytes": 141202,
+          "sha256": "7fb1e0ed02a389f6e72a52a72830edd230ad7637f434013bbe8d600cdc3f2d8f"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_rope.uasset",
+          "bytes": 130366,
+          "sha256": "52e430f7131c22481b0b2988f502ae3974cf1ae5d361cb18261b9a07e02a9c3e"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_stonebrick_02.uasset",
+          "bytes": 133256,
+          "sha256": "69d6e8dbe9f876346643c235c5e08761b55d28d378418f4f3a74b1782f3ab61b"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_wall_02.uasset",
+          "bytes": 105125,
+          "sha256": "6ff5c35b901941c2df5262ec2295401c51a543b81825224855a2d8656bd19291"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_wood_05.uasset",
+          "bytes": 124282,
+          "sha256": "ac624987eebc3fcdd5f43bb9d36df6fcc477569d6795d996a3be6e84a1ee1ee4"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_wood_06.uasset",
+          "bytes": 118984,
+          "sha256": "b248de6ec9217a974dbdb017823bd2aa60d8913ca474608339fcdac41624414c"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_wood_detail_01.uasset",
+          "bytes": 129069,
+          "sha256": "2a00438a61df9102855d29c53e539e88aa9736f5d48ab8cfc8de9ab85bbd9196"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_wood_planks_05.uasset",
+          "bytes": 130889,
+          "sha256": "61a7da7ec35ad08d23750572a29219290d0ff0378fb15e6a42c32aaafcf57220"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/MI_wood_planks_07.uasset",
+          "bytes": 119170,
+          "sha256": "8c2bc5c05c7ba0e42d8900edca312888e2796b58b1ac38f83aa348969baed8b2"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/master_materials/M_Master_CLR.uasset",
+          "bytes": 73227,
+          "sha256": "f706df255c8898e17007d2862721d0d593ffb1190cd95cfc85125bad8a5bd661"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/master_materials/M_Master_opaque.uasset",
+          "bytes": 128878,
+          "sha256": "4372b802b03ec0198a58d5711ccbdd960da148f994574418c691cb51b50b29c0"
+        },
+        {
+          "path": "Fantastic_Village_Pack/materials/master_materials/M_Master_opaque_normal.uasset",
+          "bytes": 151879,
+          "sha256": "504fd2a4b536947a9e4325eaa82a893dae9cfefe508aa4d3624c833d85cf84cf"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_base_v01_01.uasset",
+          "bytes": 121965,
+          "sha256": "0be710637568f83934eff98476de72274c920d47139634cf7b4fbf534d5f7b21"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_base_v02_01.uasset",
+          "bytes": 115013,
+          "sha256": "99f375c09114a67156b377637e894428332838372cc31771e0f8afd231224c3a"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_base_v03_01.uasset",
+          "bytes": 104035,
+          "sha256": "224a5660d1fde8d59b09c32b41bf0c83151d627a8c8a9f55870a9b8a3ddf123e"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_base_v04_01.uasset",
+          "bytes": 148655,
+          "sha256": "c210192ddbe042eba70455ba63206f1aa8aaa333d90cd26965c5ab85dc204353"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_base_v04_02.uasset",
+          "bytes": 135166,
+          "sha256": "13f1f2ed71f5f8a7a2c044cf0749ed35ae04365b3ed9aaa7c7fa126c91735eba"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_base_v05_01.uasset",
+          "bytes": 136655,
+          "sha256": "ee2310b0b41774a0b4d574ba879892ce300c66b0264571704ae32e051fba9326"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_big_v01_01.uasset",
+          "bytes": 112126,
+          "sha256": "dfe67c8d7007365737658b5d0b2cd6770c97248a508309263b4cdbbdab216f10"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_big_v01_v2.uasset",
+          "bytes": 115632,
+          "sha256": "521a202e5802fe2b3daf342f5020b6b8a9730616e926895c8e6d1ce0df7eec5c"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_big_v02_01.uasset",
+          "bytes": 116284,
+          "sha256": "09fbaf5ceb58d9bd0640525d443323483783010800a8ebd14ed226ca81af9a6f"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_big_v02_02.uasset",
+          "bytes": 117863,
+          "sha256": "04e2b0f09da203a8ecf780732c4e5b2312903caf0d77efd85916208a24f83a5b"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_big_v03_01.uasset",
+          "bytes": 111760,
+          "sha256": "2bda70d926de2b727a9a87701d1aebb51df822a9797bc55f583f6b302fdab116"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_big_v03_02.uasset",
+          "bytes": 113596,
+          "sha256": "f6160806f1a75ed4a7d2a919be4d35df9d586eeb95a0644fa22f143945fe4d9f"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_big_v03_03.uasset",
+          "bytes": 115448,
+          "sha256": "d0eccf879cc81a10610317edcd5c266c07785ee342ffcf74a471acb2ca018014"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v01_01.uasset",
+          "bytes": 104369,
+          "sha256": "ecc572e859b6bac997f2a88c042d007de1acd2cf7103502e9d0c865e98bc61b8"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v01_02.uasset",
+          "bytes": 107214,
+          "sha256": "c5d7ada33018cf7708717c66258f8eb3fb58c24672f170ddbf4d6142b41472f3"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v02_01.uasset",
+          "bytes": 101571,
+          "sha256": "10f00f58e7593d307c9fab5116c493e2d613eea94a548244325d563ba8a1556c"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v02_02.uasset",
+          "bytes": 103592,
+          "sha256": "2321813be07c1d01042fe4e3c8fbc2bedb45ecf092767d867e00271b118d8cd8"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v03_01.uasset",
+          "bytes": 101214,
+          "sha256": "89faac63bba71ee2936f9ca2deae213395e5b1b84be83db7d865538f6ed0f9b7"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v03_02.uasset",
+          "bytes": 103561,
+          "sha256": "793412677e1c8c9d8fb8555d89c3161da728ecfe1f80eb3370e39eed66577d5d"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v04_01.uasset",
+          "bytes": 104652,
+          "sha256": "8b3f145320f7ed51488c5848e5855dc3abd0fa7cbbdfd507ec3f3548cbb9e0e7"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v04_02.uasset",
+          "bytes": 108110,
+          "sha256": "8856d03d5062509b2e25099c5805cdb3a0cbf45a8058c642a095f3f1d666c082"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v05_01.uasset",
+          "bytes": 102155,
+          "sha256": "da64b394869da7bfef2f83bac1454461cc451a92b57440d5f0ddbfa8ff745c29"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v05_02.uasset",
+          "bytes": 105101,
+          "sha256": "077618784ef6e1f536b5fafaedf6f49200305808bfeaaaa9259406472d87bebd"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v06_01.uasset",
+          "bytes": 101157,
+          "sha256": "cd0eb916c3fdcd2a4ad8e651eb23b03de2cc329c7df64719f781464de0895837"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v06_02.uasset",
+          "bytes": 104100,
+          "sha256": "56f41b0c1da8998d29931b5d6e950ef66ec76c27211d0296900827d1f4fd465a"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v06_03.uasset",
+          "bytes": 104636,
+          "sha256": "04a542da7ce5c3844a49f09c5ea33999d39624788aa2db3f645ab01fd8f3ad24"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_beam_small_v07_01.uasset",
+          "bytes": 97541,
+          "sha256": "1ba4931732c626e2e5206e866f37428f82f499d7bae47269bf345107cf7e7db7"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v01_01.uasset",
+          "bytes": 214282,
+          "sha256": "b83fe5e0e37abfce61e81f0d18e7ab3927e29c598292b074bcae12c286631816"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v01_02.uasset",
+          "bytes": 214211,
+          "sha256": "9ad7462bedb6b1fae3f6738d2479dbb59267f3615c3979e7a3967c6033d616c1"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v02_01.uasset",
+          "bytes": 187372,
+          "sha256": "54e2f1c706aff3aea8eb881071dfcee86a7da39881474fc66dbe3987cf281124"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v02_02.uasset",
+          "bytes": 187500,
+          "sha256": "333794e84c2e1bdbe2999363087972735e865a8e04df8147ed7ad4f9c54dcd3b"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v03_01.uasset",
+          "bytes": 175624,
+          "sha256": "71ec0f91aef19d0cbcc8312b5ec4667928bc97ea23c1388dbd5144756cf79ffb"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v03_02.uasset",
+          "bytes": 175230,
+          "sha256": "eebe3bbea8106c1b19003742131e31cb31680a743b8d91aaf1abb1bee3ffe952"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v04_01.uasset",
+          "bytes": 207522,
+          "sha256": "8a05b5e7fa8c6633d52f5290da3f4d841b885488ba1808a778286d6023f04441"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v04_02.uasset",
+          "bytes": 206230,
+          "sha256": "466fe7b7033fe009e778a61723678463dfc6c86e748a21e5f86e27a34695604b"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v05_01.uasset",
+          "bytes": 245820,
+          "sha256": "1ebc239f475efcf4b59ccccca1982573c69f0b6c7145c873d74b50160b0cb125"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v05_02.uasset",
+          "bytes": 245052,
+          "sha256": "5b1a37fedc0aabb1fe1cb37b53ac3e1d393f1480e82f73a07ba7663c77351894"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v06_01.uasset",
+          "bytes": 224140,
+          "sha256": "5a089f71835d858c90abba1547b295fb2ae05a3034dd0473c43da364631496ae"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v06_02.uasset",
+          "bytes": 223161,
+          "sha256": "93fb50c6c7bacefa6f579017268ba8bd2e9249b657212abf1e3e714f339bd6e0"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v07_01.uasset",
+          "bytes": 264013,
+          "sha256": "1131c0c1ace8f0f713f32fab47b6fc06f728b21a6dedc006ef5b3ac03295d34a"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v07_02.uasset",
+          "bytes": 263163,
+          "sha256": "14f10ef4de2df8160f4f873889897fd60505a63f13cd88283ca7f09c09b5fa6d"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_chimney_v01_01.uasset",
+          "bytes": 115752,
+          "sha256": "13f70107b8251c84d60105e183422a052ef91567cdcba44ea7196d9bb919ffa2"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_chimney_v01_02.uasset",
+          "bytes": 118593,
+          "sha256": "c0de13451de4f67e9d386d1ff2064365279127e149d7cdb392ec36af5babce7e"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_chimney_v01_03.uasset",
+          "bytes": 118198,
+          "sha256": "d7821e1c82792ccf8cd02e2a6a0de08d1072c41f74c08ac3e4bc8f0d6ee25836"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_chimney_v02_01.uasset",
+          "bytes": 106095,
+          "sha256": "215dfeeef3ed19909da94064da0906dd5434988f7d15ebbdf1bda5cac1c0bef1"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_chimney_v02_02.uasset",
+          "bytes": 109261,
+          "sha256": "f1199e221af3702a3a0be38fac78e605915a49101b7c145bcf5ed919142a2de0"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_chimney_v02_03.uasset",
+          "bytes": 112092,
+          "sha256": "a7c2930b5b42c34d0497345e21023c9f04528cec9b385c787d6ef78ecab2574c"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_door_v01_01.uasset",
+          "bytes": 124028,
+          "sha256": "48dbe3f6b0a9b335981f94d698129527a2121bead46ddfc7dea7dde1219a800e"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_door_v02_01.uasset",
+          "bytes": 126364,
+          "sha256": "8ac32dd902403874ca987c89543c4991d699e422976753f9a569e2dbbed6b088"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_door_v03_01.uasset",
+          "bytes": 110196,
+          "sha256": "29d4de48baa982b5dc51cf03548787c35b71ddba7ab9a990752cc8fcfb8e2897"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_door_v04_01.uasset",
+          "bytes": 113293,
+          "sha256": "de36552d3f8120dcd52f438d63ad8f045b3143d2c07db692ed6f43efeb149f37"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_stairs_v01_01.uasset",
+          "bytes": 121879,
+          "sha256": "fe4b3dd8848624ae65e7839746fa29c843e41ff419e5976823321e91a99bdbcf"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_stairs_v02_01.uasset",
+          "bytes": 139296,
+          "sha256": "8435f942501317d3d5cf53d9ffcc2cf19907c329df088c1c5bff24ce7ed544e2"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_stairs_v02_02.uasset",
+          "bytes": 136231,
+          "sha256": "e10bdf09b16aeab9459c783a48d20420fed72dc68655c4b54061796ebc6d30e7"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_stairs_v03_v1.uasset",
+          "bytes": 129129,
+          "sha256": "5cd781eab1a429cf15f57a2fb5d55d3dc7521fdd2c6d203efe32fae8f15c3c9b"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_stairs_v03_v2.uasset",
+          "bytes": 127894,
+          "sha256": "cfd2a336aabec8d9774835ee3c6abd0a56b5f49ccd8afd227d428e85e6c8fe46"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_stairs_v04_v1.uasset",
+          "bytes": 131280,
+          "sha256": "72fd06a42fec9dfcf203cb58cc38a15b63916dc9999372473c3e674589ae2d68"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_stairs_v04_v2.uasset",
+          "bytes": 130576,
+          "sha256": "788b09732b9af921e36e1775667e8cc2671eaa7694749ceb7fcb620e389b6d19"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v01_01.uasset",
+          "bytes": 128484,
+          "sha256": "55723ada07e9c2ab97e77a14ed0c643ca9f5a633a3962cbe0cb14dbf89784b01"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v02_01.uasset",
+          "bytes": 128525,
+          "sha256": "1f63e6e793730d47c58ce680cf16cc2b2d550c89150c98abc3f351902dcfdfb1"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v03_01.uasset",
+          "bytes": 136509,
+          "sha256": "91dc739e16f8fc4a049a882b79876b9d417e0b1eadde4d6e82440af2a557c3e8"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v04_01.uasset",
+          "bytes": 145065,
+          "sha256": "97d42f8f032ce515ae1bb821af51987355686c9e8c8a000b188bab256edd9525"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v05_01.uasset",
+          "bytes": 135151,
+          "sha256": "28873160460a00e0af0b5a936e20735470e7209de86c8a101320445da6e4d8f7"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v06_01.uasset",
+          "bytes": 101513,
+          "sha256": "e228079f7c37f42455fccc8f928432fb62bc6a30785ad42cdf2a2f789b1059ac"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v06_02.uasset",
+          "bytes": 101612,
+          "sha256": "e5e002a4213f247e25995f6073498060d1d40f5bb08bea07dbd61905dc476081"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v07_01.uasset",
+          "bytes": 99232,
+          "sha256": "2d568a5ed796c638eb0e57702ae22058fda1527c1e28b8b89393fc0c54e20b1b"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v07_02.uasset",
+          "bytes": 99902,
+          "sha256": "1dcc432768b6887f115f006774cf9081fc8ab61e5532cb6bf68abc77fc3ceece"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v08_01.uasset",
+          "bytes": 101293,
+          "sha256": "282306d8c1a0bd94c6ae2f74802bfc914d4f8fa8b9b138cffa98991873c80d4a"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v08_02.uasset",
+          "bytes": 102331,
+          "sha256": "456b220380432e0a644c37d476fc84acff8a177957c80142c4a019ba6c954f0b"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v08_03.uasset",
+          "bytes": 104953,
+          "sha256": "e371d1a0b860c01bc17496414e21c093792febdc6d56637c5bd968577c03f56d"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v08_04.uasset",
+          "bytes": 105536,
+          "sha256": "18956373b536c0ef03085ddc9a580a615eee4d0b7b54476bb7a97d08ff74dd0d"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v09_01.uasset",
+          "bytes": 108333,
+          "sha256": "3ec6fe7948efd949090e8a76926286e86f74bbc851b6c66c731b51ed163215f3"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v09_02.uasset",
+          "bytes": 110577,
+          "sha256": "64b88c7757f208fb56e3a6c6581540b831a5f1a5a3c599021400795b46687937"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v09_03.uasset",
+          "bytes": 108448,
+          "sha256": "0e8151e27494624480ae8e1fa9a6e7802d4a0e23c87d7f7697e91c2d4439583b"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/buildings/SM_BLD_window_v09_04.uasset",
+          "bytes": 109718,
+          "sha256": "f5d80c9fabe42e0cbbf1756ecaa9d3e80bbb403cd9e54a6ba4d8d4f5b8021340"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v01_01.uasset",
+          "bytes": 122741,
+          "sha256": "b5dd85883ebf363e09a5cfe6fda3106d45bb81fe853f861a18be4b47f1eeaf7a"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v01_02.uasset",
+          "bytes": 122454,
+          "sha256": "fb5e720f53529ac2f8f0009eb9632196f95d1c527b5ed31225fc5b677871fddd"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v01_03.uasset",
+          "bytes": 122136,
+          "sha256": "27d1f4a73bd670cd7f6f2979ee63c5a39e14aa6094b8f8a2a32edee4277c419f"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v01_04.uasset",
+          "bytes": 123254,
+          "sha256": "812c107eb52d3c678bb8df7f55a08aa67f890c09cc683602ac137acd36fa5110"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v01_05.uasset",
+          "bytes": 121658,
+          "sha256": "55b420254aa977f3a8125c38d2a378e14f826c2a4d846ec564c793008816be52"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v02_01.uasset",
+          "bytes": 112894,
+          "sha256": "2c2365a72858ba3ecc68acf47fd57ce42098862b1fe8f94cbc6906115907f911"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v02_02.uasset",
+          "bytes": 114469,
+          "sha256": "6fb21a41f9494e0baac4ca15b6f2ab3be68256840d71475e7dc09c7e3cd12ce6"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v02_03.uasset",
+          "bytes": 112825,
+          "sha256": "668581997a42073cca0341ffc3671b54d9bf836c609459f200deb616bb4d3b61"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v02_04.uasset",
+          "bytes": 118729,
+          "sha256": "84776f314baf8ecd806ce03852fd50004e2e427800da0ccff405adfda5bd79fc"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v04_01.uasset",
+          "bytes": 107508,
+          "sha256": "6b0cabc90007156acb58d212e991a9606dda6e99e39b33b4232954332bf94c91"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v04_02.uasset",
+          "bytes": 106264,
+          "sha256": "e1c90c8661367e9002c7f28469b909d6c8568d2da5769f996769f01d52f5c371"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v04_03.uasset",
+          "bytes": 106318,
+          "sha256": "9aed7bda450a5c256aac70e93e6aaa2989bc79595c9c96cd854b6882c988e1dc"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_sign_01.uasset",
+          "bytes": 134931,
+          "sha256": "723880553b144adc88eb18a25a25fdf55d9ad0bc07dc21ffba1591bdd0f028b6"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_sign_02.uasset",
+          "bytes": 134372,
+          "sha256": "be5f2dba784e889d52c71be605593782045cf9352324a819d0019f706be7f630"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_sign_03.uasset",
+          "bytes": 134542,
+          "sha256": "c98dd677d34315517fd5ef6ff2a6e28aa7ac2230a46826bf3442662aed75fc4e"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_sign_04.uasset",
+          "bytes": 134529,
+          "sha256": "c21d7f0b9f0eddafc2545533fd1954e5b3aba5651db7dfc893845b3bb3c5ba98"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_sign_05.uasset",
+          "bytes": 134380,
+          "sha256": "237dc5bae6796d8bb1c77f4594f79b3266e02d1941644d819a0453232a2da0dd"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_sign_06.uasset",
+          "bytes": 134469,
+          "sha256": "a6b2fafef6010bd3040884c78045242c506d9990337af35e15fcb79c9069ec83"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_signpost_01.uasset",
+          "bytes": 110927,
+          "sha256": "a56c82936412e578ff780989dd8297eab1be6d49265625ef2995fe663fd19632"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_signpost_02.uasset",
+          "bytes": 110008,
+          "sha256": "314f41ce237b3a878562499050efbc22e4d2e64fc618b45d53f924042e99ca49"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_signpost_03.uasset",
+          "bytes": 121231,
+          "sha256": "ead7f6222bf8523216f44f2af2cf38407f671ee15569e3aec4acdd3ff7f18b3d"
+        },
+        {
+          "path": "Fantastic_Village_Pack/meshes/props/deco/SM_PROP_signpost_04.uasset",
+          "bytes": 111846,
+          "sha256": "647fd24b40472a3c4d679510ff51e12d3252ec619a39d8957be1616962cc2c7f"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_ENV_TERRAIN_gravel_BC.uasset",
+          "bytes": 6413593,
+          "sha256": "483e58ac787fe7052114e248d6482cf19bd792a44dcd0329103ddec1a3b6b18c"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_ENV_TERRAIN_gravel_N.uasset",
+          "bytes": 6670997,
+          "sha256": "bb74558eee6c5464edbbdb1d9cf276175ac2634498dabbef62181d084e84906b"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_PROP_signpost.uasset",
+          "bytes": 149551,
+          "sha256": "cfc5ba69d2fdc73181dec3daaab78082c84e9e9ac26a48c6175d70532cfc381f"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_PROP_signs.uasset",
+          "bytes": 1220473,
+          "sha256": "e3be8a6486e3ba98a9bcb30695f76186c877918c7d889a84b07d0a866f7704b4"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_leather.uasset",
+          "bytes": 850985,
+          "sha256": "bc094f4e298ebc58a9e8c78f9cf9009f1afbdaa778dd4d2131dba10ba9c6ea91"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_metal_01_BC.uasset",
+          "bytes": 1536907,
+          "sha256": "aed1bc49bd7cacefe01c6fdefd87cf310bf3c967d4c6f5a2a3724764f3e24c7d"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_metal_01_N.uasset",
+          "bytes": 361261,
+          "sha256": "249437ae9b1bdb6086592cac78cba1d6749ad5e5d9534e80b05b0e04f1ccc99c"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_metal_02_BC.uasset",
+          "bytes": 1181055,
+          "sha256": "1fe7fae5eb95f95eb91344c82b994d69008c0753a37b5fbfc8154384f7d47ea8"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_rooftiles_01_BC.uasset",
+          "bytes": 3384846,
+          "sha256": "06f7dfbb6feb19d9bf5f8688120af57503dc1306ec6a34bfc5a52b08c16aeb28"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_rooftiles_01_N.uasset",
+          "bytes": 12418786,
+          "sha256": "1bca44e5458acc743c1f5c9ad7a958fcf677a9e61e5d58ae0f7b692e755381e5"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_rope.uasset",
+          "bytes": 590901,
+          "sha256": "6e3b9cfe6323f6517b6506e56321cd1cf218ec011df498b6b863538ed479e329"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_stonebrick_01_N.uasset",
+          "bytes": 19352479,
+          "sha256": "5d4499bf173f22faee738bd6f516bdadc5891a1999dc8452088875ac81c39eae"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_stonebrick_02_BC.uasset",
+          "bytes": 3941266,
+          "sha256": "7734120fec9c2c4694943b32bea96452963aa24fd7de38d66aa53f2eaab7f3d1"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wall_02_BC.uasset",
+          "bytes": 981710,
+          "sha256": "4bf9f979f0fa9f790891bd9c9e23c1d6bb267156784ad369ef8d060bbfe17be0"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wall_02_N.uasset",
+          "bytes": 6249579,
+          "sha256": "795e4009c67a50d8e309b836f9c87a4f6031c0a4bf9a972c0e2a0d5f7ad8c630"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wood_05_BC.uasset",
+          "bytes": 159727,
+          "sha256": "f4d06a3e056d77a99f99fbcda3773a6d22f2ea0e0441bcd55bcfec3c89ad4b39"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wood_05_N.uasset",
+          "bytes": 645013,
+          "sha256": "7e17cd14fd597e5dc1e7d045500d138ecae16faed41dd96bc01c60fa0eb4de2c"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wood_06_BC.uasset",
+          "bytes": 267803,
+          "sha256": "a70c06d4244b4d1cbd09187ecc163335a7950dd8af5bfcd5fdd658672d36a0db"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wood_06_N.uasset",
+          "bytes": 746045,
+          "sha256": "2fffca895276b498a965c0b4cbd9052c92694637cc2283080ea51a3840b8c43c"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wood_detail_01_BC.uasset",
+          "bytes": 1045298,
+          "sha256": "f9eaa99070f82388b19e6cee91b87eba2be88776d0bf7b3a0c63666e4b7ba601"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wood_planks_05_BC.uasset",
+          "bytes": 1473350,
+          "sha256": "c2c17c0e45f90b7da2b9bceb6d495ad51f18318672ed697195a8cd2b04c59979"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wood_planks_05_N.uasset",
+          "bytes": 3747925,
+          "sha256": "19ac67d933ff20455116b8c3759d1c1021a56ec5502f06490c2783359ae6be46"
+        },
+        {
+          "path": "Fantastic_Village_Pack/textures/T_wood_planks_07_BC.uasset",
+          "bytes": 1247583,
+          "sha256": "293777775f6dd458a7694011e3dd014a3df1f9bfab6ea49d0609f2d14289fe52"
+        }
+      ],
+      "source_cache_modified": false,
+      "runtime_integration_verified": true,
+      "scope": "Selected architectural/sign/fence meshes and recursive native dependencies; no Blueprint/map dependency accepted",
+      "quality_gate_passed": false,
+      "used_components": [
+        "Chimney_v01_01",
+        "Fence_v01_01",
+        "Sign_01"
+      ],
+      "fit_rejections": [
+        "Whole steep medieval bodies",
+        "Octagonal window07",
+        "Roofed/dormer entrance assemblies as plain facade frames"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "checked": "2026-11-13",
+  "surfaces": {
+    "leafy_grass": {
+      "source": "https://polyhaven.com/a/leafy_grass",
+      "metadata": "https://api.polyhaven.com/info/leafy_grass",
+      "name": "Leafy Grass",
+      "creators": [
+        "Charlotte Baglioni"
+      ],
+      "license": "CC0-1.0",
+      "physical_width_cm": 200.0,
+      "files": [
+        {
+          "channel": "Diffuse",
+          "path": "assets/source/quality/leafy_grass/leafy_grass_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_diff_2k.jpg",
+          "bytes": 4766204,
+          "upstream_md5": "8014f4dace676a62ed71b3dd76119dae",
+          "sha256": "8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113"
+        },
+        {
+          "channel": "nor_dx",
+          "path": "assets/source/quality/leafy_grass/leafy_grass_nor_dx_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_nor_dx_2k.jpg",
+          "bytes": 6049495,
+          "upstream_md5": "82936efe4dd20543414cb55d47a9f53c",
+          "sha256": "6ad4b29842cb68dd4ccadeaa14f76cc52e7717eded3bac41e537a166be07356b"
+        },
+        {
+          "channel": "arm",
+          "path": "assets/source/quality/leafy_grass/leafy_grass_arm_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_arm_2k.jpg",
+          "bytes": 4116600,
+          "upstream_md5": "64f2eb364e806301df19edc7a67d65bb",
+          "sha256": "70d61c669fe9d186a84f5bb50e8a337083014d7e46534306a89d47d48fd5eb0e"
+        }
+      ]
+    },
+    "brown_mud_leaves_01": {
+      "source": "https://polyhaven.com/a/brown_mud_leaves_01",
+      "metadata": "https://api.polyhaven.com/info/brown_mud_leaves_01",
+      "name": "Brown Mud Leaves 01",
+      "creators": [
+        "Rob Tuytel"
+      ],
+      "license": "CC0-1.0",
+      "physical_width_cm": 129.99998331069946,
+      "files": [
+        {
+          "channel": "Diffuse",
+          "path": "assets/source/quality/brown_mud_leaves_01/brown_mud_leaves_01_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud_leaves_01/brown_mud_leaves_01_diff_2k.jpg",
+          "bytes": 4539452,
+          "upstream_md5": "e8b45aee8e00a253eb3a2b08cea89776",
+          "sha256": "29c997d77f56e4ea16d3e998a306be0c17fddb28ab4822657c7cd8249040ffda"
+        },
+        {
+          "channel": "nor_dx",
+          "path": "assets/source/quality/brown_mud_leaves_01/brown_mud_leaves_01_nor_dx_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud_leaves_01/brown_mud_leaves_01_nor_dx_2k.jpg",
+          "bytes": 5723577,
+          "upstream_md5": "d6290b29f215091d1e0136aa59195a06",
+          "sha256": "0b12d1cbf3fa12cf292d77034672f91aba0366c6739dd2973e083ac6bc857e0d"
+        },
+        {
+          "channel": "arm",
+          "path": "assets/source/quality/brown_mud_leaves_01/brown_mud_leaves_01_arm_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud_leaves_01/brown_mud_leaves_01_arm_2k.jpg",
+          "bytes": 3697743,
+          "upstream_md5": "62ef9ac8da61a02f78e05d35ad05438d",
+          "sha256": "a80135a30b7ea0f29f093269acae10f83d327dcc0a20bc10083da59843988c15"
+        }
+      ]
+    },
+    "white_planks_clean": {
+      "source": "https://polyhaven.com/a/white_planks_clean",
+      "metadata": "https://api.polyhaven.com/info/white_planks_clean",
+      "name": "White Planks Clean",
+      "creators": [
+        "Rob Tuytel"
+      ],
+      "license": "CC0-1.0",
+      "physical_width_cm": 180.00000715255737,
+      "files": [
+        {
+          "channel": "Diffuse",
+          "path": "assets/source/quality/white_planks_clean/white_planks_clean_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/white_planks_clean/white_planks_clean_diff_2k.jpg",
+          "bytes": 1939546,
+          "upstream_md5": "f14e54f746dc08d4119544f8e52284a3",
+          "sha256": "bc2959b06eb2bd0ff320183be12591afdac2034a23d6c8a0bd540fbf642ea7d8"
+        },
+        {
+          "channel": "nor_dx",
+          "path": "assets/source/quality/white_planks_clean/white_planks_clean_nor_dx_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/white_planks_clean/white_planks_clean_nor_dx_2k.jpg",
+          "bytes": 2853761,
+          "upstream_md5": "1a46a952c4c3908fbc1e004d8e8b5a70",
+          "sha256": "c2eee4679c8e5dcbaadd2ee4977fcb75f57350ea86397407aa23f879b325ef49"
+        },
+        {
+          "channel": "arm",
+          "path": "assets/source/quality/white_planks_clean/white_planks_clean_arm_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/white_planks_clean/white_planks_clean_arm_2k.jpg",
+          "bytes": 1893517,
+          "upstream_md5": "2db451b09b12651c8d1f41d69979dc7b",
+          "sha256": "a29376780d0c021ef52153776c272c6abbc8e6537520159cffe1c7d1dc91592c"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Fridge",
+  "author": "Toss",
+  "url": "https://www.fab.com/listings/4c8ac069-4587-4325-a39f-5ab8bf129966",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "free_verified": true,
+  "checked": "2026-11-14",
+  "source_file": "assets/source/fab-furnishings/fridge.glb",
+  "bytes": 17319584,
+  "sha256": "89423103027bd72f14a9cddefa0f9d5ef008a42ca13ead52976dcd675caa88a3",
+  "selection": "Complete clean Fridge_3 hierarchy, excluding display ground and weathered alternative. Raw GLB unchanged.",
+  "scope": "Native/world/credit verification required"
+}

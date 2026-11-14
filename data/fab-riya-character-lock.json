@@ -1,0 +1,14 @@
+{
+  "name": "Riya-Realistic girl",
+  "publisher": "giyas3dartist",
+  "url": "https://www.fab.com/listings/40fcda7b-ca5b-4d0a-a8d1-eef4d79867e7",
+  "license": "Fab Standard License",
+  "license_url": "https://www.fab.com/eula",
+  "checked": "2026-11-14",
+  "free_verified": true,
+  "archive": "assets/source/fab-characters/Riya/business_girl_unreal.zip",
+  "archive_bytes": 160722308,
+  "archive_sha256": "f78f57b9670d8f643ef9f67fc3c524538b0df50943edeae4746a6862911cf486",
+  "selection": "Original supplied Unreal project archive; inspect static asset dependencies/rig/materials before copying content. Do not execute source project scripts or demos.",
+  "scope": "Acquired only; native asset/rig/PBR/motion/role fit unverified"
+}

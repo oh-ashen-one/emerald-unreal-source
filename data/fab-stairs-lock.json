@@ -1,0 +1,18 @@
+{
+  "name": "Modern Staircase Collection 3D Model Pack",
+  "author": "3dShowdown",
+  "url": "https://www.fab.com/listings/84f06084-d96f-4ce0-8254-811d544f9570",
+  "license": "Fab Standard License",
+  "license_url": "https://www.fab.com/eula",
+  "checked": "2026-11-14",
+  "free_verified": true,
+  "source_archive": "assets/source/fab-stairs/stairs_source.zip",
+  "bytes": 6130779,
+  "sha256": "265643699bd46f8522713324716e371b57c63c4e1f9d6f3b79cf0b4ef2a37184",
+  "scope": "Acquired original glTF collection; complete variant selection/native PBR/facing/fit verification required",
+  "texture_archive": {
+    "path": "assets/source/fab-stairs/textures.zip",
+    "bytes": 8400787,
+    "sha256": "93c3f31fc9d76fd6b9e8f1dd6923be2be3d1599d73bdf479a77b385b33d3146e"
+  }
+}

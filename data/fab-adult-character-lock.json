@@ -1,0 +1,264 @@
+{
+  "name": "Free Cartoon Game Man Character (Rigged)",
+  "publisher": "Canino3d Studio",
+  "url": "https://www.fab.com/listings/d2d871a0-50ea-4041-9889-3f27e5377bb3",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "checked": "2026-11-14",
+  "authorization": "Existing licensed-assets task authority; free Fab CC-BY live UI verified, no purchase/signup",
+  "attribution": "Free Cartoon Game Man Character (Rigged) by Canino3d Studio, via Fab, licensed CC BY 4.0. Modifications and retargeting recorded in project asset ledger.",
+  "archive": "assets/source/fab-characters/CaninoGameMan/free_cartoon_game_man_character_rigged.zip",
+  "archive_bytes": 57241618,
+  "archive_sha256": "64f0f4c2476fa8263b5fc9865c1056058e6b243a8e2a1d2c46824ac79f4da7e5",
+  "files": [
+    {
+      "member": "source/Jake.fbx",
+      "path": "assets/source/fab-characters/CaninoGameMan/source/Jake.fbx",
+      "bytes": 31950112,
+      "sha256": "b2fbef9f40a941cbb705d7cb01a1300e7f34aa6f29d4f58ae2083a447ac98468"
+    },
+    {
+      "member": "textures/Std_Skin_Body_Normal.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Skin_Body_Normal.png",
+      "bytes": 1651440,
+      "sha256": "f4197946203d53e03037ecf35c75b02c6562885dcdc2a75f54d3fda8955eeaff"
+    },
+    {
+      "member": "textures/Laces_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Laces_Diffuse.jpeg",
+      "bytes": 306640,
+      "sha256": "2b18cf3b12216b649763e6a9fb4a9993a32dc59d40a78cebf2cfceeb5b68f1dc"
+    },
+    {
+      "member": "textures/Std_Eye_L_Diffuse.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Eye_L_Diffuse.png",
+      "bytes": 60077,
+      "sha256": "1fa943638f60eb002f7005541c72c0aeb7a98d893bce5360b4897fbec7d42378"
+    },
+    {
+      "member": "textures/Std_Skin_Leg_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Skin_Leg_Diffuse.jpeg",
+      "bytes": 1043566,
+      "sha256": "2192833051a028a1e1091302535bb2ecb8890180eac59ed635b2013a784342e5"
+    },
+    {
+      "member": "textures/Std_Cornea_R_Diffuse.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Cornea_R_Diffuse.png",
+      "bytes": 60077,
+      "sha256": "1fa943638f60eb002f7005541c72c0aeb7a98d893bce5360b4897fbec7d42378"
+    },
+    {
+      "member": "textures/Std_Skin_Head_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Skin_Head_Diffuse.jpeg",
+      "bytes": 2587718,
+      "sha256": "00ed212d9ead89eb28c722ee088c35139e4b8c4293f7b59852c5e32a1fe8cdd4"
+    },
+    {
+      "member": "textures/lambert3SG_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/lambert3SG_Diffuse.jpeg",
+      "bytes": 17800,
+      "sha256": "269e980195509cc2b85b2af3d40f86855b29d13c1fa53593a82c2d3f202abaef"
+    },
+    {
+      "member": "textures/PantsFabric_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/PantsFabric_Diffuse.jpeg",
+      "bytes": 308059,
+      "sha256": "6a69922f2c92a67582f1882335ee5ed225ea39eb8b49666ceaca4383d7d0a1d9"
+    },
+    {
+      "member": "textures/Std_Tongue_Diffuse.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Tongue_Diffuse.png",
+      "bytes": 60394,
+      "sha256": "d23964b4a772eb221684be62c2115ee95658b85e3ef90f4da89dd4fef23b38f6"
+    },
+    {
+      "member": "textures/Std_Skin_Arm_Normal.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Skin_Arm_Normal.png",
+      "bytes": 1752850,
+      "sha256": "5c5c440985844d014f5bd526a68e7d5dfc16e426ba50a2323717900f084cb010"
+    },
+    {
+      "member": "textures/Std_Tongue_Opacity.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Tongue_Opacity.png",
+      "bytes": 660,
+      "sha256": "4405f615959b7eed99cebae90c3c8bc18ba87504d19460dcb511a72dd796e0f3"
+    },
+    {
+      "member": "textures/Std_Eye_R_Diffuse.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Eye_R_Diffuse.png",
+      "bytes": 60077,
+      "sha256": "1fa943638f60eb002f7005541c72c0aeb7a98d893bce5360b4897fbec7d42378"
+    },
+    {
+      "member": "textures/Std_Skin_Arm_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Skin_Arm_Diffuse.jpeg",
+      "bytes": 722391,
+      "sha256": "a5b3ba403109d32c51e8dcee868e72d755269658b3b1fa339b7288cee14a57e3"
+    },
+    {
+      "member": "textures/Std_Skin_Head_Normal.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Skin_Head_Normal.png",
+      "bytes": 3717461,
+      "sha256": "80c0759fc033fb95d2a44e26c9cf6e813227b888d13d01b07e78bd541e0483b7"
+    },
+    {
+      "member": "textures/Std_Nails_Normal.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Nails_Normal.png",
+      "bytes": 604,
+      "sha256": "d85ab3f14cfec8a6d543554a66d4a2752d5503b33a70a994e80ebf8ac7d94406"
+    },
+    {
+      "member": "textures/Classic_Taper_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Classic_Taper_Diffuse.jpeg",
+      "bytes": 1746479,
+      "sha256": "ad3c94702a85a7323a377ee14b8d4c68eab1abf5d58420509f49b14963c3cbc9"
+    },
+    {
+      "member": "textures/Std_Eyelash_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Eyelash_Diffuse.jpeg",
+      "bytes": 646398,
+      "sha256": "56d60affea5cccd38d2493a4a7706a18b79de404da4c77a578a097bb624891a9"
+    },
+    {
+      "member": "textures/Std_Eyelash_Opacity.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Eyelash_Opacity.jpeg",
+      "bytes": 656253,
+      "sha256": "8a1b0a76d06996097fc4333a3f0f1598d52b2306af234b6b486d4de16bffb8ec"
+    },
+    {
+      "member": "textures/Std_Tongue_Normal.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Tongue_Normal.png",
+      "bytes": 463798,
+      "sha256": "29dbbd1e664098ea3257d61ec1c8c1727f14d25e4b51bc055780e10c3d1bc7d1"
+    },
+    {
+      "member": "textures/Std_Lower_Teeth_Opacity.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Lower_Teeth_Opacity.png",
+      "bytes": 3149,
+      "sha256": "881654e6ecfc2a1586e9403b40b727a9899ecca5b3ad4b7b16e693d0e2fdb89f"
+    },
+    {
+      "member": "textures/Classic_Taper_Scalp_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Classic_Taper_Scalp_Diffuse.jpeg",
+      "bytes": 2366438,
+      "sha256": "2e7e6d11aad663131a32e53296b0b0b8a6c7bf04200fddf9126ba7e9cb8e0332"
+    },
+    {
+      "member": "textures/Std_Eye_L_Opacity.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Eye_L_Opacity.png",
+      "bytes": 660,
+      "sha256": "4405f615959b7eed99cebae90c3c8bc18ba87504d19460dcb511a72dd796e0f3"
+    },
+    {
+      "member": "textures/Sole_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Sole_Diffuse.jpeg",
+      "bytes": 306640,
+      "sha256": "2b18cf3b12216b649763e6a9fb4a9993a32dc59d40a78cebf2cfceeb5b68f1dc"
+    },
+    {
+      "member": "textures/Waistband_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Waistband_Diffuse.jpeg",
+      "bytes": 308059,
+      "sha256": "6a69922f2c92a67582f1882335ee5ed225ea39eb8b49666ceaca4383d7d0a1d9"
+    },
+    {
+      "member": "textures/Std_Cornea_L_Opacity.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Cornea_L_Opacity.png",
+      "bytes": 660,
+      "sha256": "4405f615959b7eed99cebae90c3c8bc18ba87504d19460dcb511a72dd796e0f3"
+    },
+    {
+      "member": "textures/Std_Upper_Teeth_Diffuse.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Upper_Teeth_Diffuse.png",
+      "bytes": 281174,
+      "sha256": "255db90f4c7f0a45bb0de54bc2a1a28d9cebe4be131a29f8a36b346f0b8475c2"
+    },
+    {
+      "member": "textures/Std_Cornea_L_Diffuse.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Cornea_L_Diffuse.png",
+      "bytes": 60077,
+      "sha256": "1fa943638f60eb002f7005541c72c0aeb7a98d893bce5360b4897fbec7d42378"
+    },
+    {
+      "member": "textures/Std_Skin_Body_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Skin_Body_Diffuse.jpeg",
+      "bytes": 552662,
+      "sha256": "85831fb05285ccb5e0db8244cb9f283997f726a1d867b8d45fd1220a9d7a617a"
+    },
+    {
+      "member": "textures/Std_Upper_Teeth_Opacity.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Upper_Teeth_Opacity.png",
+      "bytes": 3149,
+      "sha256": "881654e6ecfc2a1586e9403b40b727a9899ecca5b3ad4b7b16e693d0e2fdb89f"
+    },
+    {
+      "member": "textures/Classic_Taper_Scalp_Opacity.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Classic_Taper_Scalp_Opacity.jpeg",
+      "bytes": 810806,
+      "sha256": "6568785a8e16f73d947c30e0be80e19fd8f74cd67f9518913bac9a34f6d32565"
+    },
+    {
+      "member": "textures/Std_Eye_R_Opacity.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Eye_R_Opacity.png",
+      "bytes": 660,
+      "sha256": "4405f615959b7eed99cebae90c3c8bc18ba87504d19460dcb511a72dd796e0f3"
+    },
+    {
+      "member": "textures/Std_Lower_Teeth_Diffuse.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Lower_Teeth_Diffuse.png",
+      "bytes": 302447,
+      "sha256": "79d5c28b06543a1f6783144895c0d0fe30930ca74b03cd6f12aafd91bc91cfbf"
+    },
+    {
+      "member": "textures/FrontShoe_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/FrontShoe_Diffuse.jpeg",
+      "bytes": 306640,
+      "sha256": "2b18cf3b12216b649763e6a9fb4a9993a32dc59d40a78cebf2cfceeb5b68f1dc"
+    },
+    {
+      "member": "textures/BackShoe_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/BackShoe_Diffuse.jpeg",
+      "bytes": 306640,
+      "sha256": "2b18cf3b12216b649763e6a9fb4a9993a32dc59d40a78cebf2cfceeb5b68f1dc"
+    },
+    {
+      "member": "textures/Classic_Taper_Opacity.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Classic_Taper_Opacity.jpeg",
+      "bytes": 525560,
+      "sha256": "4c95b57b3400f6ce956fb6f446feed595ed48bc2d591892460512c6587fcbf2c"
+    },
+    {
+      "member": "textures/Std_Skin_Leg_Normal.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Skin_Leg_Normal.png",
+      "bytes": 1718937,
+      "sha256": "ad589a94571625a2c2c29a6d04e1ffc5c6038c1a4d56b0be61328458b285a33b"
+    },
+    {
+      "member": "textures/Std_Nails_Diffuse.jpeg",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Nails_Diffuse.jpeg",
+      "bytes": 409937,
+      "sha256": "63a351b3e3951ed6b5731306354f400aa8d098275303b8bbac7cde9ac2718b1c"
+    },
+    {
+      "member": "textures/Std_Eyelash_Normal.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Eyelash_Normal.png",
+      "bytes": 1158167,
+      "sha256": "1cdf2f3efd7bcf2c5c16a01972f3d4dcb8b954689ab7e960f52631fc9f0280a6"
+    },
+    {
+      "member": "textures/Std_Cornea_R_Opacity.png",
+      "path": "assets/source/fab-characters/CaninoGameMan/textures/Std_Cornea_R_Opacity.png",
+      "bytes": 660,
+      "sha256": "4405f615959b7eed99cebae90c3c8bc18ba87504d19460dcb511a72dd796e0f3"
+    }
+  ],
+  "converted_glb": {
+    "path": "assets/source/fab-characters/CartoonGameMan.glb",
+    "bytes": 32033288,
+    "sha256": "94835f2863340596df98803895d045988fe4e355204c936c723a25c7fa033404",
+    "scope": "22pruned skins/22meshes,105357tri, no morphs/animations; original FBX chosen for native evaluation"
+  },
+  "source_bytes_modified": false,
+  "native_import_verified": false,
+  "quality_gate_passed": false
+}

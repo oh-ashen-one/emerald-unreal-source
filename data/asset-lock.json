@@ -1,0 +1,428 @@
+{
+  "repository": "https://github.com/ETdoFresh/kenney.nl",
+  "revision": "45df48c4d45f8716216b1a9e22df0b69cd9f5932",
+  "files": [
+    {
+      "name": "bedSingle",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/bedSingle.glb",
+      "sha256": "ca00c63f9a12da3138d902b2f5f18e0360fb6e8a5ac42ccb4bc3f185724b65d1",
+      "triangles": 214,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "tableCrossCloth",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/tableCrossCloth.glb",
+      "sha256": "3c16b86cdf9a9a82b80b97611030a1da2ed2e9e977ac76457e09a1547b0cebbc",
+      "triangles": 202,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "chair",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/chair.glb",
+      "sha256": "c8a11eec93e89e31250ba91afc1b8d56c3bec7ae86640fd1239f595ff4180883",
+      "triangles": 170,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "kitchenFridge",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/kitchenFridge.glb",
+      "sha256": "8af4f4bbb1b5525ad8226e97926a5af60fa8fb20a3cb74dbda5328a9d320dbab",
+      "triangles": 250,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "kitchenFridgeSmall",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/kitchenFridgeSmall.glb",
+      "sha256": "35dab7f63711623be321bfd82072f4ab29fe8006aac9371c6e6b78df2e02f5ed",
+      "triangles": 152,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "kitchenSink",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/kitchenSink.glb",
+      "sha256": "7b9610277d71f00dcf1bba49cf4d98d77ce5177e84bf76c7da2f8893e542f743",
+      "triangles": 318,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "kitchenCabinet",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/kitchenCabinet.glb",
+      "sha256": "7238c57778935ae25db5e57e9f7af3ba7068c71b005ff7cfbff3b6f3b1a13200",
+      "triangles": 114,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "kitchenCabinetDrawer",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/kitchenCabinetDrawer.glb",
+      "sha256": "6f784807e3cadb15b4d2d3db726d93357ea5e6c4f2b6e4c9c064048a2d1d9cfc",
+      "triangles": 174,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "bookcaseOpen",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/bookcaseOpen.glb",
+      "sha256": "750702218d68c062b15dfef6ab06a4014d1cfa8bd05f02e57c53b7e13bec157c",
+      "triangles": 320,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "bookcaseClosedWide",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/bookcaseClosedWide.glb",
+      "sha256": "55b9903e9646dc407ed5237a1c41c1f0a14f9edc22e3392bdb9a4804d846af6a",
+      "triangles": 372,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "televisionVintage",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/televisionVintage.glb",
+      "sha256": "eb144cc8fb1e7f761e3665226e4266c8868679421d21d6548f24d2abad7c67cf",
+      "triangles": 280,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "computerScreen",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/computerScreen.glb",
+      "sha256": "5942cbad29a2d2b956619569926e81d50a4174403d592fece6556e57632dc643",
+      "triangles": 72,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "computerKeyboard",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/computerKeyboard.glb",
+      "sha256": "9d9135789de2120e9f41ce3f0a56dd1b15f40adcc7888739bb842a2d820da322",
+      "triangles": 32,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "books",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/books.glb",
+      "sha256": "b8dc56e5d29f6fc1f4727fccb1b9642627fee9942c48060a00034e98df02701c",
+      "triangles": 62,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "stairs",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/stairs.glb",
+      "sha256": "b442f997583e417fcb32ec89470ecc441b0556f416d3afe00e3f18c806e556a0",
+      "triangles": 308,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "rugSquare",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/rugSquare.glb",
+      "sha256": "18a63634e9bbdde0b309c008f4cd41df8455f7f2ffdb8fe8985fdf8c2cd06b3d",
+      "triangles": 28,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "plantSmall1",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/plantSmall1.glb",
+      "sha256": "2b9c022feb47be857b2c4fdc29f36522766ba9b70c578c31d7c05d71b4377d15",
+      "triangles": 102,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "tree_default",
+      "pack": "kenney_natureKit_2.1",
+      "path": ".references/kenney/kenney_natureKit_2.1/Models/GLTF format/tree_default.glb",
+      "sha256": "562d29638c902de3c7bee465d3a53bb77117efbc392ae04ed894faf6b5dc691d",
+      "triangles": 114,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "tree_oak",
+      "pack": "kenney_natureKit_2.1",
+      "path": ".references/kenney/kenney_natureKit_2.1/Models/GLTF format/tree_oak.glb",
+      "sha256": "d7fd8773674928c50c11b66d12c636d49bdcc15a8b1c7fbb98e6f63a3439a3f3",
+      "triangles": 196,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "tree_oak_dark",
+      "pack": "kenney_natureKit_2.1",
+      "path": ".references/kenney/kenney_natureKit_2.1/Models/GLTF format/tree_oak_dark.glb",
+      "sha256": "f2c455bb433fe98522d1b9391d5b587e7324176ecaee29ceefe55350a7e3fd47",
+      "triangles": 196,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "grass",
+      "pack": "kenney_natureKit_2.1",
+      "path": ".references/kenney/kenney_natureKit_2.1/Models/GLTF format/grass.glb",
+      "sha256": "260e41d3e5f2472492ed7b475c5b92a30b13ce2bad408535b5ff50574d4575e7",
+      "triangles": 132,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "grass_large",
+      "pack": "kenney_natureKit_2.1",
+      "path": ".references/kenney/kenney_natureKit_2.1/Models/GLTF format/grass_large.glb",
+      "sha256": "af49a595624abca7249824eeefb944d4baf974abeeb5b16110d175da3563d6cd",
+      "triangles": 224,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "flower_redA",
+      "pack": "kenney_natureKit_2.1",
+      "path": ".references/kenney/kenney_natureKit_2.1/Models/GLTF format/flower_redA.glb",
+      "sha256": "171930b7789ddbf735af3745576b5393750beb9133b9ff4a444bb6bb2986c020",
+      "triangles": 76,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "flower_yellowA",
+      "pack": "kenney_natureKit_2.1",
+      "path": ".references/kenney/kenney_natureKit_2.1/Models/GLTF format/flower_yellowA.glb",
+      "sha256": "8a3b08cd2ca411c21f9c581d5bda651d78b13c50cba45ad8fa0389398ead6d1d",
+      "triangles": 76,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "plant_bushDetailed",
+      "pack": "kenney_natureKit_2.1",
+      "path": ".references/kenney/kenney_natureKit_2.1/Models/GLTF format/plant_bushDetailed.glb",
+      "sha256": "2e0487020d68ccf664435db9d829c78ae00e6d2785ee3ec10b9f89cc70a10406",
+      "triangles": 104,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "rock_smallA",
+      "pack": "kenney_natureKit_2.1",
+      "path": ".references/kenney/kenney_natureKit_2.1/Models/GLTF format/rock_smallA.glb",
+      "sha256": "df9fff9d711e61370e8df0caa2514c89b8f8a8dc6c6fafaf4eb2ec79c5ae07c1",
+      "triangles": 16,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "roofGable",
+      "pack": "fantasy-town-kit-1.0",
+      "path": ".references/kenney/fantasy-town-kit-1.0/Models/GLTF format/roofGable.glb",
+      "sha256": "5086f80ba96b22c9885a2a3212bce498f26847d3fdcbfb89e792381be14a8024",
+      "triangles": 72,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "roofGableTop",
+      "pack": "fantasy-town-kit-1.0",
+      "path": ".references/kenney/fantasy-town-kit-1.0/Models/GLTF format/roofGableTop.glb",
+      "sha256": "8052dacdeacb0f5cb273883759de59ffdd81dcbda207a1ed9bfb9f3617e2d570",
+      "triangles": 56,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "roof",
+      "pack": "fantasy-town-kit-1.0",
+      "path": ".references/kenney/fantasy-town-kit-1.0/Models/GLTF format/roof.glb",
+      "sha256": "1162b3aabd705aa5a71aabbb5ad30eb99a791b9594b4e17f79780a83e43430cc",
+      "triangles": 64,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "wallWindowGlass",
+      "pack": "fantasy-town-kit-1.0",
+      "path": ".references/kenney/fantasy-town-kit-1.0/Models/GLTF format/wallWindowGlass.glb",
+      "sha256": "e7ba2b16e27dd2616bc03e0d5f519ed60c57f249b4e68e8172249ef42452a6ba",
+      "triangles": 188,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "pillarWood",
+      "pack": "fantasy-town-kit-1.0",
+      "path": ".references/kenney/fantasy-town-kit-1.0/Models/GLTF format/pillarWood.glb",
+      "sha256": "16efd141af694f54bd42c36d0983a2ea2ac446fcbd467de64c8c84a078192792",
+      "triangles": 44,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "kitchenStoveElectric",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/kitchenStoveElectric.glb",
+      "sha256": "cf646b960d7dfed1fac27898ff6de1f0671cfa33beecbed06ead7d0684517392",
+      "triangles": 338,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "table",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/table.glb",
+      "sha256": "ff1a94498d023957f4bc3ff6f55a7a82977d336dbf01a573b3364f03afe5ff61",
+      "triangles": 120,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "doorwayFront",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/doorwayFront.glb",
+      "sha256": "b5b8e4c14ee1f2ffa10ef5c69badc995ae6fbcc868abac240221c61b8c593b0e",
+      "triangles": 156,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "lampWall",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/lampWall.glb",
+      "sha256": "a9679ecd3be05731846f22ade97c37069598ca7a06dd9319f50230e63a1ea83c",
+      "triangles": 42,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "lampSquareCeiling",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/lampSquareCeiling.glb",
+      "sha256": "57066be51583d83ae60071e8179af275189cb2911ecb9fc24953bb930c8bf118",
+      "triangles": 60,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "tableCoffee",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/tableCoffee.glb",
+      "sha256": "e38bea760fbd514efbb75528d09b4752c91af44677bbb97e6d4386c263525179",
+      "triangles": 124,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "chairModernCushion",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/chairModernCushion.glb",
+      "sha256": "245132697e633e907e2b48c86d56f6c8543604a3440a055d1c71c06ce11d2858",
+      "triangles": 92,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "desk",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/desk.glb",
+      "sha256": "0164fe828f028b321730fb8c74502e353583f751be74da1682d42fff7d3c5a42",
+      "triangles": 198,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "cardboardBoxClosed",
+      "pack": "furniturekit_updated",
+      "path": ".references/kenney/furniturekit_updated/Models/GLTF format/cardboardBoxClosed.glb",
+      "sha256": "4af079dca52960912764574950f0549ff2ae1224b3db1528718629473a2d5d81",
+      "triangles": 60,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "wallClock",
+      "source": "polyhaven",
+      "pack": "wall_clock",
+      "path": "assets/source/wall_clock/wallClock.glb",
+      "sha256": "a6802cad0fef74f0a98de12c454e8c35b7a8b779459599a0b9166ff008e5fee9",
+      "triangles": 3658,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    },
+    {
+      "name": "regionMapFrame",
+      "source": "polyhaven",
+      "pack": "hanging_picture_frame_01",
+      "path": "assets/source/hanging_picture_frame_01/regionMapFrame.glb",
+      "sha256": "7fa0b47609f27955219ad56f0683b62aaedf1129f90c51ab82fcb241780ad84e",
+      "triangles": 2586,
+      "license": "CC0-1.0",
+      "modified": false,
+      "import_verified": false
+    }
+  ]
+}

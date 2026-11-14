@@ -1,0 +1,35 @@
+{
+  "name": "Retrofuturistic Computer",
+  "author": "crow",
+  "url": "https://www.fab.com/listings/7304fe63-018f-464f-b7ac-b544ed9285d6",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "free_verified": true,
+  "checked": "2026-11-14",
+  "source_file": "assets/source/fab-furnishings/retrofuturistic_computer.glb",
+  "bytes": 26018272,
+  "sha256": "404b56118b51c03fe3ae41b710ed51e9838954527b43829d4e634af8317fc7df",
+  "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fab_RetroComputer.glb",
+  "baked": {
+    "source_mesh_instances": 11,
+    "source_nodes": 25,
+    "output_meshes": 1,
+    "primitives": 11,
+    "vertices": 22104,
+    "bounds_gltf": {
+      "min": [
+        -0.878617505462076,
+        -1.1422863679941471e-07,
+        -0.8376137927204835
+      ],
+      "max": [
+        0.878617505462076,
+        2.0295071788905608,
+        1.4976256729623083
+      ]
+    },
+    "sha256": "dcb2ab0ebd7a38f10632331d4fddd4b2a5b2973f85c5f5dfff57cdd517444064",
+    "triangles": 25320
+  },
+  "scope": "Complete11part static assembly; native/PBR/world fit and readable attribution required before integration"
+}

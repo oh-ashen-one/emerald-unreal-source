@@ -1,0 +1,650 @@
+{
+  "checked": "2026-11-14",
+  "license_url": "https://polyhaven.com/license",
+  "source_first": "Sand3D refrigerator word-search108rows previewed; visible flat reconstructions not selected for AAA/PBR goal. Fab console and appliance candidates checked; PH original fictional console and scanned stove selected with full real normal/ARM maps. Native/world verification pending.",
+  "assets": [
+    {
+      "id": "gaming_console",
+      "name": "Gaming Console",
+      "author": "Sean Buckley",
+      "url": "https://polyhaven.com/a/gaming_console",
+      "license": "CC0-1.0",
+      "source_files": [
+        {
+          "path": "assets/source/quality-fixtures/gaming_console/gaming_console_4k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/gaming_console/gaming_console_4k.gltf",
+          "bytes": 4943,
+          "sha256": "0750fa291ab6a8957722b0e049c1ccc8eaf1108c4de9b6c1fde4a750ac025826",
+          "upstream_md5": "40b2dc6a4c4039d3cf85a6529b6a16de"
+        },
+        {
+          "path": "assets/source/quality-fixtures/gaming_console/textures/gaming_console_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_diff_4k.jpg",
+          "bytes": 6298091,
+          "sha256": "07c4974fad5affb23dc75563dac862f2f66929ca9fd93ca56d1de36acf5dce9b",
+          "upstream_md5": "3cad44c716660ce8b9dfe8092b1096b1"
+        },
+        {
+          "path": "assets/source/quality-fixtures/gaming_console/gaming_console.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/gaming_console/gaming_console.bin",
+          "bytes": 1407028,
+          "sha256": "7118be3268cac74fd6f4d4e0f678599b34b94d9c9853f8a0b23dac54b311cbfc",
+          "upstream_md5": "3bd9ba4b7ce934dba5f2508e14c21625"
+        },
+        {
+          "path": "assets/source/quality-fixtures/gaming_console/textures/gaming_console_arm_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_arm_4k.jpg",
+          "bytes": 9298173,
+          "sha256": "69f2bd3c993c33ac27198d0d1d5405907f5fb04d7ec4f8e1cc0b081da40e04e2",
+          "upstream_md5": "f9e40198454321c3bda2caa85f9f5a5b"
+        },
+        {
+          "path": "assets/source/quality-fixtures/gaming_console/textures/gaming_console_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_nor_gl_4k.jpg",
+          "bytes": 3739298,
+          "sha256": "63aa8b15f6bb91f06597b760e2262754672f2f1b416d7c0ee34fdac486e231c0",
+          "upstream_md5": "ad5a10f5264b660c59f6fcde91f2a83b"
+        },
+        {
+          "path": "assets/source/quality-fixtures/gaming_console/textures/gaming_console_emissive_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_emissive_4k.jpg",
+          "bytes": 280178,
+          "sha256": "0877434b6cca2a7d832be6ed95eae65b83452593a965840501232d1d717238de",
+          "upstream_md5": "f3990dc90778c60c98f5a0e846996cc8"
+        }
+      ],
+      "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fixture_gaming_console.glb",
+      "baked": {
+        "source_mesh_instances": 2,
+        "source_nodes": 2,
+        "output_meshes": 1,
+        "primitives": 2,
+        "vertices": 38024,
+        "bounds_gltf": {
+          "min": [
+            -0.16250522434711456,
+            -0.00028257217491045594,
+            -0.13694258034229279
+          ],
+          "max": [
+            0.16250522434711456,
+            0.09998275339603424,
+            0.18160053753517535
+          ]
+        },
+        "sha256": "3c2299192b7aa42a94d06e5f427d33acaa742b6583b88e6314e27509881b8750",
+        "triangles": 31710
+      }
+    },
+    {
+      "id": "electric_stove",
+      "name": "Electric Stove",
+      "author": "Kuutti Siitonen",
+      "url": "https://polyhaven.com/a/electric_stove",
+      "license": "CC0-1.0",
+      "source_files": [
+        {
+          "path": "assets/source/quality-fixtures/electric_stove/electric_stove_4k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/electric_stove/electric_stove_4k.gltf",
+          "bytes": 31234,
+          "sha256": "eb10c0c0b58c6f2bdaf7c539312534082998ed9d1c356c44dfd1c0b67faa6ed7",
+          "upstream_md5": "82be5345c0f5a044eef23d8990a66543"
+        },
+        {
+          "path": "assets/source/quality-fixtures/electric_stove/textures/electric_stove_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/electric_stove/electric_stove_diff_4k.jpg",
+          "bytes": 6200676,
+          "sha256": "20af305630d5f4e0ee042ce0010615b0d1072194cdf9eb31e4aef493b36ea032",
+          "upstream_md5": "d4b9761a14a60f22220cd1757334cce1"
+        },
+        {
+          "path": "assets/source/quality-fixtures/electric_stove/electric_stove.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/electric_stove/electric_stove.bin",
+          "bytes": 462956,
+          "sha256": "66f210539346b8f339b7519664ad6fa9b74d0932d8445b6b7e40eabcb40cd4f9",
+          "upstream_md5": "9846b43c4af868f79a95635fb9bd354d"
+        },
+        {
+          "path": "assets/source/quality-fixtures/electric_stove/textures/electric_stove_arm_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/electric_stove/electric_stove_arm_4k.jpg",
+          "bytes": 9256617,
+          "sha256": "16740b0ded06f90328354c4cb3d4908951333078b17c545dbdbbad076b9984eb",
+          "upstream_md5": "96ba8c568c6bb0db10b9cbae7437443a"
+        },
+        {
+          "path": "assets/source/quality-fixtures/electric_stove/textures/electric_stove_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/electric_stove/electric_stove_nor_gl_4k.jpg",
+          "bytes": 6343819,
+          "sha256": "b33f2de14542cc34dde7235851ad577bf2ffcd09670dda987c9752f5b79ad05c",
+          "upstream_md5": "9880957c91619863df40f7b86ecd50a7"
+        }
+      ],
+      "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fixture_electric_stove.glb",
+      "baked": {
+        "source_mesh_instances": 19,
+        "source_nodes": 19,
+        "output_meshes": 1,
+        "primitives": 20,
+        "vertices": 11989,
+        "bounds_gltf": {
+          "min": [
+            -0.2512974441051483,
+            0.0,
+            -0.30000004172325134
+          ],
+          "max": [
+            0.25129735469818115,
+            0.8586971759796143,
+            0.3476211428642273
+          ]
+        },
+        "sha256": "5e3b63df467214d89a724b4b5c6f941112175c0829413a6c5def102b803c139c",
+        "triangles": 13914
+      }
+    },
+    {
+      "id": "book_encyclopedia_set_01",
+      "name": "Book Encyclopedia Set 01",
+      "author": "John Malcolm",
+      "url": "https://polyhaven.com/a/book_encyclopedia_set_01",
+      "license": "CC0-1.0",
+      "source_files": [
+        {
+          "path": "assets/source/quality-fixtures/book_encyclopedia_set_01/book_encyclopedia_set_01_4k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/book_encyclopedia_set_01/book_encyclopedia_set_01_4k.gltf",
+          "bytes": 55011,
+          "sha256": "580dbb45c7f9fa06a15ba8da107b23d54e0b1b3a4fe84c98a4c260fa388bd055",
+          "upstream_md5": "78b6d3eb0bcf75dbf388ca748a4a4a84"
+        },
+        {
+          "path": "assets/source/quality-fixtures/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_paper_roughness_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/book_encyclopedia_set_01/book_encyclopedia_set_01_paper_roughness_4k.jpg",
+          "bytes": 197004,
+          "sha256": "0c89f4f81d5e1e2c735c3da57fb25e0d04742ff204a481c669fe199022f36b54",
+          "upstream_md5": "28556eed5d54f652d69fa68f3a2e7e28"
+        },
+        {
+          "path": "assets/source/quality-fixtures/book_encyclopedia_set_01/book_encyclopedia_set_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/book_encyclopedia_set_01/book_encyclopedia_set_01.bin",
+          "bytes": 2547932,
+          "sha256": "bbc726698b6e40ab5537b73e082f7bb4db97b9e6f978f52cdaf763dddc85d9ba",
+          "upstream_md5": "ac617be6503e537c5d1a16a94313e866"
+        },
+        {
+          "path": "assets/source/quality-fixtures/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_cover_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/book_encyclopedia_set_01/book_encyclopedia_set_01_cover_nor_gl_4k.jpg",
+          "bytes": 288538,
+          "sha256": "eac070d23c35761a6e30433c27f21b2f1e98ba85add7b8dadb13d6ebdf45468a",
+          "upstream_md5": "6c7263465726b5908920c5094432f56c"
+        },
+        {
+          "path": "assets/source/quality-fixtures/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_cover_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/book_encyclopedia_set_01/book_encyclopedia_set_01_cover_diff_4k.jpg",
+          "bytes": 1599619,
+          "sha256": "9834993358cce538c573751321674ab51d3bd4118dec9ff90d7ceeb71b3b5a76",
+          "upstream_md5": "cd8030479c94310e332094388ba6aa79"
+        },
+        {
+          "path": "assets/source/quality-fixtures/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_cover_arm_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/book_encyclopedia_set_01/book_encyclopedia_set_01_cover_arm_4k.jpg",
+          "bytes": 2573723,
+          "sha256": "a3a1fe4e8d0b0a7bd61fc86c34f35628d0e4785a150fff4c783b7ebf5d87196a",
+          "upstream_md5": "5363c79f80aa6fa59d89e9ff30e796ee"
+        },
+        {
+          "path": "assets/source/quality-fixtures/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_paper_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/book_encyclopedia_set_01/book_encyclopedia_set_01_paper_nor_gl_4k.jpg",
+          "bytes": 1701764,
+          "sha256": "5c9d9a4e2209d4076ddf8b918322ba248e7b802d171c43bc0d82d63828f668a5",
+          "upstream_md5": "c92ad17916a495c162539848a8b39816"
+        },
+        {
+          "path": "assets/source/quality-fixtures/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_paper_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/book_encyclopedia_set_01/book_encyclopedia_set_01_paper_diff_4k.jpg",
+          "bytes": 958756,
+          "sha256": "abc312314afc929f33951bab1c7c83813bfb1b687c83e8450e1dd70348305499",
+          "upstream_md5": "a3ed446313310ed3a13f8add209bc352"
+        }
+      ],
+      "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fixture_book_encyclopedia_set_01.glb",
+      "baked": {
+        "source_mesh_instances": 20,
+        "source_nodes": 20,
+        "output_meshes": 1,
+        "primitives": 40,
+        "vertices": 67003,
+        "bounds_gltf": {
+          "min": [
+            -0.019316473975777626,
+            -1.1795664001112982e-08,
+            -0.062069885432720184
+          ],
+          "max": [
+            0.5319809513166547,
+            0.23741817474365234,
+            0.10099244862794876
+          ]
+        },
+        "sha256": "d5b07c981fbe704e46ce84c80201cff44e18aa1ca2e9837d79f0a59cb394b29b",
+        "triangles": 67306
+      }
+    },
+    {
+      "id": "cardboard_box_01",
+      "name": "Cardboard Box 01",
+      "author": "Rahul Chaudhary",
+      "url": "https://polyhaven.com/a/cardboard_box_01",
+      "license": "CC0-1.0",
+      "source_files": [
+        {
+          "path": "assets/source/quality-fixtures/cardboard_box_01/cardboard_box_01_4k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/cardboard_box_01/cardboard_box_01_4k.gltf",
+          "bytes": 2903,
+          "sha256": "0ffb7dad9c66b48d1ab0d02ffef63ae3cc890b18c5aa02873e6d7d3ba7e1288c",
+          "upstream_md5": "a5de8c05d5fd9837c8b2a0cca7abe04e"
+        },
+        {
+          "path": "assets/source/quality-fixtures/cardboard_box_01/cardboard_box_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/cardboard_box_01/cardboard_box_01.bin",
+          "bytes": 381936,
+          "sha256": "7212d43b4cb56459e46d31ab34dc7c310fcfbe170f4a588416dea07ae5628a4b",
+          "upstream_md5": "64bea3a77434981017b8a06da4ccb0df"
+        },
+        {
+          "path": "assets/source/quality-fixtures/cardboard_box_01/textures/cardboard_box_01_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/cardboard_box_01/cardboard_box_01_diff_4k.jpg",
+          "bytes": 6809662,
+          "sha256": "a8fbd62deb25c6d540ab01341a71e608ba1fd0d6af4faad5bf8a0d02b3321c1d",
+          "upstream_md5": "09f3e5d28528f698ba4d637ef10795ea"
+        },
+        {
+          "path": "assets/source/quality-fixtures/cardboard_box_01/textures/cardboard_box_01_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/cardboard_box_01/cardboard_box_01_nor_gl_4k.jpg",
+          "bytes": 10898654,
+          "sha256": "83108a5c7e76726a2783009d12100a1ca0cbfaecad4861f9b48ee6ef0141ffd6",
+          "upstream_md5": "a7c1f430703b2974f212722b94330511"
+        },
+        {
+          "path": "assets/source/quality-fixtures/cardboard_box_01/textures/cardboard_box_01_arm_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/cardboard_box_01/cardboard_box_01_arm_4k.jpg",
+          "bytes": 4738751,
+          "sha256": "aae24f88879781fc791251f3700570df35087bcecb2d09956adecfc845264e7b",
+          "upstream_md5": "4718fc55db9e37a863ede34c0efdfd36"
+        }
+      ],
+      "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fixture_cardboard_box_01.glb",
+      "baked": {
+        "source_mesh_instances": 1,
+        "source_nodes": 1,
+        "output_meshes": 1,
+        "primitives": 1,
+        "vertices": 8757,
+        "bounds_gltf": {
+          "min": [
+            -0.19250565767288208,
+            -0.006755933165550232,
+            -0.22508370876312256
+          ],
+          "max": [
+            0.19451794028282166,
+            0.33504362404346466,
+            0.2907867133617401
+          ]
+        },
+        "sha256": "0f9e31342a21ee1dd9ebe0c4817943f5f626c5fe4624990cabd457114ce3e135",
+        "triangles": 16952
+      }
+    },
+    {
+      "id": "metal_office_desk",
+      "name": "Metal Office Desk",
+      "author": "Ulan Cabanilla",
+      "url": "https://polyhaven.com/a/metal_office_desk",
+      "license": "CC0-1.0",
+      "source_files": [
+        {
+          "path": "assets/source/quality-fixtures/metal_office_desk/metal_office_desk_4k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/metal_office_desk/metal_office_desk_4k.gltf",
+          "bytes": 13510,
+          "sha256": "acb0b088c2246b534602cd4dc138d40fb0b4846a0921408d1d93722805daf66c",
+          "upstream_md5": "a21d971374a6fb91406eca7728d1513b"
+        },
+        {
+          "path": "assets/source/quality-fixtures/metal_office_desk/textures/metal_office_desk_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/metal_office_desk/metal_office_desk_nor_gl_4k.jpg",
+          "bytes": 1366603,
+          "sha256": "5caecf8e4b7f05751c7ef687d3f72b3206f6ab6b61e067280dffb3928ec7da3c",
+          "upstream_md5": "ae69c2f5eb0b2a63db7bd5b3bc11a913"
+        },
+        {
+          "path": "assets/source/quality-fixtures/metal_office_desk/textures/metal_office_desk_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/metal_office_desk/metal_office_desk_diff_4k.jpg",
+          "bytes": 6966395,
+          "sha256": "af57574fb7a84697bafa1abbc44fc53e33c5b6cdf487fcb1daa4a4e74f168cc3",
+          "upstream_md5": "dfff781e3600d064f4615adefc540435"
+        },
+        {
+          "path": "assets/source/quality-fixtures/metal_office_desk/textures/metal_office_desk_arm_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/metal_office_desk/metal_office_desk_arm_4k.jpg",
+          "bytes": 10517810,
+          "sha256": "245208e04162baa7a6eed07f313c5d4c0313a25eaa7ee06c42f97fe817729ce6",
+          "upstream_md5": "7483edb253683d617308ff32716ee28d"
+        },
+        {
+          "path": "assets/source/quality-fixtures/metal_office_desk/metal_office_desk.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/metal_office_desk/metal_office_desk.bin",
+          "bytes": 229700,
+          "sha256": "65b558f41a75ad4822e31cc2a97eb34ed359199279a6bfbd650deb27cef78767",
+          "upstream_md5": "96f258b9a64d36ca011f44de23da7c65"
+        }
+      ],
+      "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fixture_metal_office_desk.glb",
+      "baked": {
+        "source_mesh_instances": 9,
+        "source_nodes": 9,
+        "output_meshes": 1,
+        "primitives": 9,
+        "vertices": 6070,
+        "bounds_gltf": {
+          "min": [
+            -1.0000008344650269,
+            0.0,
+            -0.4691101610660553
+          ],
+          "max": [
+            0.9999995231628418,
+            0.7875000238418579,
+            0.478103369474411
+          ]
+        },
+        "sha256": "57f2a1adbcbc1091b35721d1b366bd310224ca2aa62fb4f7aff6390feab3b783",
+        "triangles": 6898
+      }
+    },
+    {
+      "id": "television_02",
+      "name": "Television 02",
+      "author": "Benny Weimer",
+      "url": "https://polyhaven.com/a/television_02",
+      "license": "CC0-1.0",
+      "source_files": [
+        {
+          "path": "assets/source/quality-fixtures/television_02/television_02_4k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/television_02/television_02_4k.gltf",
+          "bytes": 2767,
+          "sha256": "35c0d489217d04804f9398810b7cb807589ebeb1c6185ff1ff6d95a5d3a426c5",
+          "upstream_md5": "de8151c3ab74940a433ee3b7a847c9b3"
+        },
+        {
+          "path": "assets/source/quality-fixtures/television_02/textures/television_02_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/television_02/television_02_nor_gl_4k.jpg",
+          "bytes": 2504804,
+          "sha256": "f203d6efdbac158afd8e5bc4d659c6f91595c94a7d45c94b48a14191ceee0bf5",
+          "upstream_md5": "65db5eec336e23690977afc084822399"
+        },
+        {
+          "path": "assets/source/quality-fixtures/television_02/textures/television_02_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/television_02/television_02_diff_4k.jpg",
+          "bytes": 4957519,
+          "sha256": "3e249f6f9d8ea7afbae1d938ebb097c55ad9b45d604b235e1becdba063f9ca58",
+          "upstream_md5": "8ccb7bbb55eb64c179c82c9559af158d"
+        },
+        {
+          "path": "assets/source/quality-fixtures/television_02/textures/television_02_arm_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/television_02/television_02_arm_4k.jpg",
+          "bytes": 5071272,
+          "sha256": "5d8f7bb17e7d4bfeb518680e0b4a1dd428c5bee46f0c68f2a0876c6112bf57ea",
+          "upstream_md5": "d3c9e3101e112a947a943b8c4b8fe23e"
+        },
+        {
+          "path": "assets/source/quality-fixtures/television_02/television_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/television_02/television_02.bin",
+          "bytes": 81668,
+          "sha256": "73f1d3519f7bdacca24c892e2614ff756d5d27f5c33fb518cb8aac9154fa710b",
+          "upstream_md5": "2d486ed0c0d589cdb4b2acaf65242773"
+        }
+      ],
+      "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fixture_television_02.glb",
+      "baked": {
+        "source_mesh_instances": 1,
+        "source_nodes": 1,
+        "output_meshes": 1,
+        "primitives": 1,
+        "vertices": 2119,
+        "bounds_gltf": {
+          "min": [
+            -0.20170873403549194,
+            2.97835756057907e-09,
+            -0.22829124331474304
+          ],
+          "max": [
+            0.19803974032402039,
+            0.41141477227211,
+            0.12190267443656921
+          ]
+        },
+        "sha256": "b9a72c276e0e1ddc5d215e848017b759c40a623df970640bb6b04fc2bb8810f1",
+        "triangles": 2310
+      }
+    },
+    {
+      "id": "painted_wooden_cabinet_02",
+      "name": "Painted Wooden Cabinet 02",
+      "author": "Kirill Sannikov",
+      "url": "https://polyhaven.com/a/painted_wooden_cabinet_02",
+      "license": "CC0-1.0",
+      "source_files": [
+        {
+          "path": "assets/source/quality-fixtures/painted_wooden_cabinet_02/painted_wooden_cabinet_02_4k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/painted_wooden_cabinet_02/painted_wooden_cabinet_02_4k.gltf",
+          "bytes": 6085,
+          "sha256": "eb78b224914524645c083844540c21b5e40008bdb5e0fb8318c40ab1d5a4cfb4",
+          "upstream_md5": "289edea81ed94c8ad885aaf35270bb91"
+        },
+        {
+          "path": "assets/source/quality-fixtures/painted_wooden_cabinet_02/painted_wooden_cabinet_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/painted_wooden_cabinet_02/painted_wooden_cabinet_02.bin",
+          "bytes": 39332,
+          "sha256": "7acab853993b90cafc9c7550a7035397dfeb4bbda7f0dba8759d40a971c755ca",
+          "upstream_md5": "00b400f46d4a95cc51abfb1361b30184"
+        },
+        {
+          "path": "assets/source/quality-fixtures/painted_wooden_cabinet_02/textures/painted_wooden_cabinet_02_arm_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/painted_wooden_cabinet_02/painted_wooden_cabinet_02_arm_4k.jpg",
+          "bytes": 6289817,
+          "sha256": "730e9fe86baf00916eb79bb319b79d66e1110d7067a5b5c2271d85a499c224f3",
+          "upstream_md5": "30b0801ee82a1144e210b1b9a503d524"
+        },
+        {
+          "path": "assets/source/quality-fixtures/painted_wooden_cabinet_02/textures/painted_wooden_cabinet_02_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/painted_wooden_cabinet_02/painted_wooden_cabinet_02_diff_4k.jpg",
+          "bytes": 9198945,
+          "sha256": "0572a9f80c5c50463cb426abf4c6ec66dd9daf6847a270c178fcf63eab1ef1f0",
+          "upstream_md5": "a300813e895a1213e209238432e9b5dd"
+        },
+        {
+          "path": "assets/source/quality-fixtures/painted_wooden_cabinet_02/textures/painted_wooden_cabinet_02_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/painted_wooden_cabinet_02/painted_wooden_cabinet_02_nor_gl_4k.jpg",
+          "bytes": 9708351,
+          "sha256": "6c01911dfec240062ba16a58aced059f51542c37e2f7c8f1a2ac073f2e3a88aa",
+          "upstream_md5": "24c61d359258364e12f3b2518430abd7"
+        }
+      ],
+      "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fixture_painted_wooden_cabinet_02.glb",
+      "baked": {
+        "source_mesh_instances": 3,
+        "source_nodes": 3,
+        "output_meshes": 1,
+        "primitives": 3,
+        "vertices": 1048,
+        "bounds_gltf": {
+          "min": [
+            -0.49846675992012024,
+            -0.0010216402588412166,
+            -0.3221842646598816
+          ],
+          "max": [
+            0.49846670031547546,
+            2.5675508975982666,
+            0.4001587884028214
+          ]
+        },
+        "sha256": "d7ad9cb3467ac88c0c9964f4d47a8a4627032668cd22b120c6dff9c73a01824c",
+        "triangles": 966
+      }
+    },
+    {
+      "id": "small_wooden_table_01",
+      "name": "Small Wooden Table 01",
+      "author": "Ulan Cabanilla",
+      "url": "https://polyhaven.com/a/small_wooden_table_01",
+      "license": "CC0-1.0",
+      "source_files": [
+        {
+          "path": "assets/source/quality-fixtures/small_wooden_table_01/small_wooden_table_01_4k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/small_wooden_table_01/small_wooden_table_01_4k.gltf",
+          "bytes": 2764,
+          "sha256": "e6ffe4386fb2bac3b9287370aa5b9687c04b18c3b56c503eb2e9980319b6323f",
+          "upstream_md5": "6df0f54ab89e428a76c75ff0f4384c01"
+        },
+        {
+          "path": "assets/source/quality-fixtures/small_wooden_table_01/textures/small_wooden_table_01_arm_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/small_wooden_table_01/small_wooden_table_01_arm_4k.jpg",
+          "bytes": 2079931,
+          "sha256": "0a12f11e38616bb2c00c1eaae9ed1ff598164035d01609272d21c6faeded623e",
+          "upstream_md5": "8c4769384663bd8968e24950b57cbfcf"
+        },
+        {
+          "path": "assets/source/quality-fixtures/small_wooden_table_01/small_wooden_table_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/small_wooden_table_01/small_wooden_table_01.bin",
+          "bytes": 92428,
+          "sha256": "f0ca88dac6cf094e1ba260ee1bc21756a84a27b5456bcf45bda2227819458d84",
+          "upstream_md5": "d4384b662a532853084edd70adb16ed5"
+        },
+        {
+          "path": "assets/source/quality-fixtures/small_wooden_table_01/textures/small_wooden_table_01_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/small_wooden_table_01/small_wooden_table_01_diff_4k.jpg",
+          "bytes": 2642010,
+          "sha256": "b11f7be0c884a13cb5973918a774f07bdf509701924798de10a5a71df1d5238d",
+          "upstream_md5": "9d10631e03b128b08554b00aead059b2"
+        },
+        {
+          "path": "assets/source/quality-fixtures/small_wooden_table_01/textures/small_wooden_table_01_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/small_wooden_table_01/small_wooden_table_01_nor_gl_4k.jpg",
+          "bytes": 693446,
+          "sha256": "d48e488b78819dd737030ebc3fa5917c0288e285d38a1fa2470ae9becbdf5f96",
+          "upstream_md5": "0d95c9f317ac07bdc3cf621047b699cc"
+        }
+      ],
+      "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fixture_small_wooden_table_01.glb",
+      "baked": {
+        "source_mesh_instances": 1,
+        "source_nodes": 1,
+        "output_meshes": 1,
+        "primitives": 1,
+        "vertices": 2249,
+        "bounds_gltf": {
+          "min": [
+            -0.45809391140937805,
+            -3.725290298461914e-09,
+            -0.22005823254585266
+          ],
+          "max": [
+            0.45809391140937805,
+            0.5330857634544373,
+            0.21990439295768738
+          ]
+        },
+        "sha256": "8007ac7fbe1cdea389d35b7209ed8bc1acc37a675a963bda6a2c37b39f4daeca",
+        "triangles": 3410
+      }
+    },
+    {
+      "id": "potted_plant_01",
+      "name": "Potted Plant 01",
+      "author": "Rico Cilliers",
+      "url": "https://polyhaven.com/a/potted_plant_01",
+      "license": "CC0-1.0",
+      "source_files": [
+        {
+          "path": "assets/source/quality-fixtures/potted_plant_01/potted_plant_01.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/potted_plant_01/potted_plant_01_4k.gltf",
+          "bytes": 7969,
+          "sha256": "e10363d7b6ca6f4b07194391f02afd520a5afc4c7cd7b10257517904e67c04f7",
+          "upstream_md5": "453f7ebfb082914f6284319c03381f57"
+        },
+        {
+          "path": "assets/source/quality-fixtures/potted_plant_01/textures/potted_plant_01_pot_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/potted_plant_01/potted_plant_01_pot_diff_4k.jpg",
+          "bytes": 2606682,
+          "sha256": "1dbc12c3110f5da85b0fc8748aabf120ec124450f83f931caee81cfbdc9b48ec",
+          "upstream_md5": "fadad6b897b2751d5276ed21df88b756"
+        },
+        {
+          "path": "assets/source/quality-fixtures/potted_plant_01/potted_plant_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/potted_plant_01/potted_plant_01.bin",
+          "bytes": 5345188,
+          "sha256": "a8dd1f7ce75f50dc25bbedc20809da02ee4193815c155b883a329925fa5548f7",
+          "upstream_md5": "18377bd8d99b20a8d5fc5cf03cbf94b2"
+        },
+        {
+          "path": "assets/source/quality-fixtures/potted_plant_01/textures/potted_plant_01_pot_rough_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/potted_plant_01/potted_plant_01_pot_rough_4k.jpg",
+          "bytes": 2054723,
+          "sha256": "e6eaded920e5335dc1fd9f6ee1a2093b80f171f7523bc8e8e54efe86b4c9fed1",
+          "upstream_md5": "77df37d4449987cea1b686a5daeb8f27"
+        },
+        {
+          "path": "assets/source/quality-fixtures/potted_plant_01/textures/potted_plant_01_leaves_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/potted_plant_01/potted_plant_01_leaves_nor_gl_4k.jpg",
+          "bytes": 3208330,
+          "sha256": "6f79fe82757741cb79449e563c47be8b91031d82a756b0fad5efd304b795d781",
+          "upstream_md5": "bf51dac9041fe9d2258da6b09be8346d"
+        },
+        {
+          "path": "assets/source/quality-fixtures/potted_plant_01/textures/potted_plant_01_leaves_rough_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/potted_plant_01/potted_plant_01_leaves_rough_4k.jpg",
+          "bytes": 1457895,
+          "sha256": "bfed0b772e77b64ff4e7b7c42e213c8b9026c1195cb4a69ec392174b336567b7",
+          "upstream_md5": "f9f91b8b0b0cfd4059dc073222a6df8e"
+        },
+        {
+          "path": "assets/source/quality-fixtures/potted_plant_01/textures/potted_plant_01_pot_nor_gl_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/potted_plant_01/potted_plant_01_pot_nor_gl_4k.jpg",
+          "bytes": 3260725,
+          "sha256": "fca6bb32eef9cbd82ee71deaea39638bfa2423344325675e70e81e1a8892c59f",
+          "upstream_md5": "0a2afa0276cde450cc160261afe99e7c"
+        },
+        {
+          "path": "assets/source/quality-fixtures/potted_plant_01/textures/potted_plant_01_leaves_diff_4k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/potted_plant_01/potted_plant_01_leaves_diff_4k.jpg",
+          "bytes": 1393833,
+          "sha256": "6270061eb1f948e732f716bc26793e7f16e3d7796f8027da307c1dee8dd705d0",
+          "upstream_md5": "80fc80118742226a3b5977115d383777"
+        }
+      ],
+      "baked_file": "unreal/Emerald/Content/Imported/SourceModels/Fixture_potted_plant_01.glb",
+      "baked": {
+        "source_mesh_instances": 4,
+        "source_nodes": 4,
+        "output_meshes": 1,
+        "primitives": 4,
+        "vertices": 113951,
+        "bounds_gltf": {
+          "min": [
+            -0.33836793899536133,
+            -0.013706624373488907,
+            -0.36367878317832947
+          ],
+          "max": [
+            0.24901919066905975,
+            1.336457371711731,
+            0.2698860168457031
+          ]
+        },
+        "sha256": "93cd30e5b12828bf391cdb1f65310b3f1ffabba0ba504f825e9e759f67ce90b6",
+        "triangles": 176226
+      }
+    }
+  ]
+}
